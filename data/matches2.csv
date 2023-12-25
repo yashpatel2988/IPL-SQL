@@ -1,0 +1,951 @@
+season,id,name,short_name,home_team,away_team,home_captain,away_captain,venue_name,home_team_name,away_team_name
+2022,1304047,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,Ravindra Jadeja,Shreyas Iyer,"Wankhede Stadium, Mumbai",Chennai Super Kings , Kolkata Knight Riders
+2022,1304048,Delhi Capitals v Mumbai Indians,DC v MI,DC,MI,Rishabh Pant,Rohit Sharma,"Brabourne Stadium, Mumbai",Delhi Capitals , Mumbai Indians
+2022,1304049,Punjab Kings v Royal Challengers Bangalore,PBKS v RCB,PBKS,RCB,Mayank Agarwal,Faf du Plessis,"Dr DY Patil Sports Academy, Navi Mumbai",Punjab Kings , Royal Challengers Bangalore
+2022,1304050,Gujarat Titans v Lucknow Super Giants,GT v LSG,GT,LSG,Hardik Pandya,KL Rahul,"Wankhede Stadium, Mumbai",Gujarat Titans , Lucknow Super Giants
+2022,1304051,Sunrisers Hyderabad v Rajasthan Royals,SRH v RR,SRH,RR,Kane Williamson,Sanju Samson,"Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad , Rajasthan Royals
+2022,1304052,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Faf du Plessis,Shreyas Iyer,"Dr DY Patil Sports Academy, Navi Mumbai",Royal Challengers Bangalore , Kolkata Knight Riders
+2022,1304053,Lucknow Super Giants v Chennai Super Kings,LSG v CSK,LSG,CSK,KL Rahul,Ravindra Jadeja,"Brabourne Stadium, Mumbai",Lucknow Super Giants , Chennai Super Kings
+2022,1304054,Kolkata Knight Riders v Punjab Kings,KKR v PBKS,KKR,PBKS,Shreyas Iyer,Mayank Agarwal,"Wankhede Stadium, Mumbai",Kolkata Knight Riders , Punjab Kings
+2022,1304055,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Rohit Sharma,Sanju Samson,"Dr DY Patil Sports Academy, Navi Mumbai",Mumbai Indians , Rajasthan Royals
+2022,1304056,Gujarat Titans v Delhi Capitals,GT v DC,GT,DC,Hardik Pandya,Rishabh Pant,"Maharashtra Cricket Association Stadium, Pune",Gujarat Titans , Delhi Capitals
+2022,1304057,Chennai Super Kings v Punjab Kings,CSK v PBKS,CSK,PBKS,Ravindra Jadeja,Mayank Agarwal,"Brabourne Stadium, Mumbai",Chennai Super Kings , Punjab Kings
+2022,1304058,Sunrisers Hyderabad v Lucknow Super Giants,SRH v LSG,SRH,LSG,Kane Williamson,KL Rahul,"Dr DY Patil Sports Academy, Navi Mumbai",Sunrisers Hyderabad , Lucknow Super Giants
+2022,1304059,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Sanju Samson,Faf du Plessis,"Wankhede Stadium, Mumbai",Rajasthan Royals , Royal Challengers Bangalore
+2022,1304060,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Shreyas Iyer,Rohit Sharma,"Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders , Mumbai Indians
+2022,1304061,Lucknow Super Giants v Delhi Capitals,LSG v DC,LSG,DC,KL Rahul,Rishabh Pant,"Dr DY Patil Sports Academy, Navi Mumbai",Lucknow Super Giants , Delhi Capitals
+2022,1304062,Punjab Kings v Gujarat Titans,PBKS v GT,PBKS,GT,Mayank Agarwal,Hardik Pandya,"Brabourne Stadium, Mumbai",Punjab Kings , Gujarat Titans
+2022,1304063,Chennai Super Kings v Sunrisers Hyderabad,CSK v SRH,CSK,SRH,Ravindra Jadeja,Kane Williamson,"Dr DY Patil Sports Academy, Navi Mumbai",Chennai Super Kings , Sunrisers Hyderabad
+2022,1304064,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Faf du Plessis,Rohit Sharma,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore , Mumbai Indians
+2022,1304065,Kolkata Knight Riders v Delhi Capitals,KKR v DC,KKR,DC,Shreyas Iyer,Rishabh Pant,"Brabourne Stadium, Mumbai",Kolkata Knight Riders , Delhi Capitals
+2022,1304066,Rajasthan Royals v Lucknow Super Giants,RR v LSG,RR,LSG,Sanju Samson,KL Rahul,"Wankhede Stadium, Mumbai",Rajasthan Royals , Lucknow Super Giants
+2022,1304067,Sunrisers Hyderabad v Gujarat Titans,SRH v GT,SRH,GT,Kane Williamson,Hardik Pandya,"Dr DY Patil Sports Academy, Navi Mumbai",Sunrisers Hyderabad , Gujarat Titans
+2022,1304068,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,Ravindra Jadeja,Faf du Plessis,"Dr DY Patil Sports Academy, Navi Mumbai",Chennai Super Kings , Royal Challengers Bangalore
+2022,1304069,Mumbai Indians v Punjab Kings,MI v PBKS,MI,PBKS,Rohit Sharma,Mayank Agarwal,"Maharashtra Cricket Association Stadium, Pune",Mumbai Indians , Punjab Kings
+2022,1304070,Rajasthan Royals v Gujarat Titans,RR v GT,RR,GT,Sanju Samson,Hardik Pandya,"Dr DY Patil Sports Academy, Navi Mumbai",Rajasthan Royals , Gujarat Titans
+2022,1304071,Sunrisers Hyderabad v Kolkata Knight Riders,SRH v KKR,SRH,KKR,Kane Williamson,Shreyas Iyer,"Brabourne Stadium, Mumbai",Sunrisers Hyderabad , Kolkata Knight Riders
+2022,1304072,Mumbai Indians v Lucknow Super Giants,MI v LSG,MI,LSG,Rohit Sharma,KL Rahul,"Brabourne Stadium, Mumbai",Mumbai Indians , Lucknow Super Giants
+2022,1304073,Delhi Capitals v Royal Challengers Bangalore,DC v RCB,DC,RCB,Rishabh Pant,Faf du Plessis,"Wankhede Stadium, Mumbai",Delhi Capitals , Royal Challengers Bangalore
+2022,1304074,Punjab Kings v Sunrisers Hyderabad,PBKS v SRH,PBKS,SRH,Shikhar Dhawan,Kane Williamson,"Dr DY Patil Sports Academy, Navi Mumbai",Punjab Kings , Sunrisers Hyderabad
+2022,1304075,Gujarat Titans v Chennai Super Kings,GT v CSK,GT,CSK,Rashid Khan,Ravindra Jadeja,"Maharashtra Cricket Association Stadium, Pune",Gujarat Titans , Chennai Super Kings
+2022,1304076,Rajasthan Royals v Kolkata Knight Riders,RR v KKR,RR,KKR,Sanju Samson,Shreyas Iyer,"Brabourne Stadium, Mumbai",Rajasthan Royals , Kolkata Knight Riders
+2022,1304077,Lucknow Super Giants v Royal Challengers Bangalore,LSG v RCB,LSG,RCB,KL Rahul,Faf du Plessis,"Dr DY Patil Sports Academy, Navi Mumbai",Lucknow Super Giants , Royal Challengers Bangalore
+2022,1304078,Delhi Capitals v Punjab Kings,DC v PBKS,DC,PBKS,Rishabh Pant,Mayank Agarwal,"Brabourne Stadium, Mumbai",Delhi Capitals , Punjab Kings
+2022,1304079,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Rohit Sharma,Ravindra Jadeja,"Dr DY Patil Sports Academy, Navi Mumbai",Mumbai Indians , Chennai Super Kings
+2022,1304080,Delhi Capitals v Rajasthan Royals,DC v RR,DC,RR,Rishabh Pant,Sanju Samson,"Wankhede Stadium, Mumbai",Delhi Capitals , Rajasthan Royals
+2022,1304081,Kolkata Knight Riders v Gujarat Titans,KKR v GT,KKR,GT,Shreyas Iyer,Hardik Pandya,"Dr DY Patil Sports Academy, Navi Mumbai",Kolkata Knight Riders , Gujarat Titans
+2022,1304082,Royal Challengers Bangalore v Sunrisers Hyderabad,RCB v SRH,RCB,SRH,Faf du Plessis,Kane Williamson,"Brabourne Stadium, Mumbai",Royal Challengers Bangalore , Sunrisers Hyderabad
+2022,1304083,Lucknow Super Giants v Mumbai Indians,LSG v MI,LSG,MI,KL Rahul,Rohit Sharma,"Wankhede Stadium, Mumbai",Lucknow Super Giants , Mumbai Indians
+2022,1304084,Punjab Kings v Chennai Super Kings,PBKS v CSK,PBKS,CSK,Mayank Agarwal,Ravindra Jadeja,"Wankhede Stadium, Mumbai",Punjab Kings , Chennai Super Kings
+2022,1304085,Royal Challengers Bangalore v Rajasthan Royals,RCB v RR,RCB,RR,Faf du Plessis,Sanju Samson,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore , Rajasthan Royals
+2022,1304086,Gujarat Titans v Sunrisers Hyderabad,GT v SRH,GT,SRH,Hardik Pandya,Kane Williamson,"Wankhede Stadium, Mumbai",Gujarat Titans , Sunrisers Hyderabad
+2022,1304087,Delhi Capitals v Kolkata Knight Riders,DC v KKR,DC,KKR,Rishabh Pant,Shreyas Iyer,"Wankhede Stadium, Mumbai",Delhi Capitals , Kolkata Knight Riders
+2022,1304088,Punjab Kings v Lucknow Super Giants,PBKS v LSG,PBKS,LSG,Mayank Agarwal,KL Rahul,"Maharashtra Cricket Association Stadium, Pune",Punjab Kings , Lucknow Super Giants
+2022,1304089,Gujarat Titans v Royal Challengers Bangalore,GT v RCB,GT,RCB,Hardik Pandya,Faf du Plessis,"Brabourne Stadium, Mumbai",Gujarat Titans , Royal Challengers Bangalore
+2022,1304090,Rajasthan Royals v Mumbai Indians,RR v MI,RR,MI,Sanju Samson,Rohit Sharma,"Dr DY Patil Sports Academy, Navi Mumbai",Rajasthan Royals , Mumbai Indians
+2022,1304091,Delhi Capitals v Lucknow Super Giants,DC v LSG,DC,LSG,Rishabh Pant,KL Rahul,"Wankhede Stadium, Mumbai",Delhi Capitals , Lucknow Super Giants
+2022,1304092,Sunrisers Hyderabad v Chennai Super Kings,SRH v CSK,SRH,CSK,Kane Williamson,MS Dhoni,"Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad , Chennai Super Kings
+2022,1304093,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Shreyas Iyer,Sanju Samson,"Wankhede Stadium, Mumbai",Kolkata Knight Riders , Rajasthan Royals
+2022,1304094,Gujarat Titans v Punjab Kings,GT v PBKS,GT,PBKS,Hardik Pandya,Mayank Agarwal,"Dr DY Patil Sports Academy, Navi Mumbai",Gujarat Titans , Punjab Kings
+2022,1304095,Royal Challengers Bangalore v Chennai Super Kings,RCB v CSK,RCB,CSK,Faf du Plessis,MS Dhoni,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore , Chennai Super Kings
+2022,1304096,Delhi Capitals v Sunrisers Hyderabad,DC v SRH,DC,SRH,Rishabh Pant,Kane Williamson,"Brabourne Stadium, Mumbai",Delhi Capitals , Sunrisers Hyderabad
+2022,1304097,Gujarat Titans v Mumbai Indians,GT v MI,GT,MI,Hardik Pandya,Rohit Sharma,"Brabourne Stadium, Mumbai",Gujarat Titans , Mumbai Indians
+2022,1304098,Punjab Kings v Rajasthan Royals,PBKS v RR,PBKS,RR,Mayank Agarwal,Sanju Samson,"Wankhede Stadium, Mumbai",Punjab Kings , Rajasthan Royals
+2022,1304099,Lucknow Super Giants v Kolkata Knight Riders,LSG v KKR,LSG,KKR,KL Rahul,Shreyas Iyer,"Maharashtra Cricket Association Stadium, Pune",Lucknow Super Giants , Kolkata Knight Riders
+2022,1304100,Sunrisers Hyderabad v Royal Challengers Bangalore,SRH v RCB,SRH,RCB,Kane Williamson,Faf du Plessis,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad , Royal Challengers Bangalore
+2022,1304101,Chennai Super Kings v Delhi Capitals,CSK v DC,CSK,DC,MS Dhoni,Rishabh Pant,"Dr DY Patil Sports Academy, Navi Mumbai",Chennai Super Kings , Delhi Capitals
+2022,1304102,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Rohit Sharma,Shreyas Iyer,"Dr DY Patil Sports Academy, Navi Mumbai",Mumbai Indians , Kolkata Knight Riders
+2022,1304103,Lucknow Super Giants v Gujarat Titans,LSG v GT,LSG,GT,KL Rahul,Hardik Pandya,"Maharashtra Cricket Association Stadium, Pune",Lucknow Super Giants , Gujarat Titans
+2022,1304104,Rajasthan Royals v Delhi Capitals,RR v DC,RR,DC,Sanju Samson,Rishabh Pant,"Dr DY Patil Sports Academy, Navi Mumbai",Rajasthan Royals , Delhi Capitals
+2022,1304105,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Rohit Sharma,"Wankhede Stadium, Mumbai",Chennai Super Kings , Mumbai Indians
+2022,1304106,Royal Challengers Bangalore v Punjab Kings,RCB v PBKS,RCB,PBKS,Faf du Plessis,Mayank Agarwal,"Brabourne Stadium, Mumbai",Royal Challengers Bangalore , Punjab Kings
+2022,1304107,Kolkata Knight Riders v Sunrisers Hyderabad,KKR v SRH,KKR,SRH,Shreyas Iyer,Kane Williamson,"Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders , Sunrisers Hyderabad
+2022,1304108,Chennai Super Kings v Gujarat Titans,CSK v GT,CSK,GT,MS Dhoni,Hardik Pandya,"Wankhede Stadium, Mumbai",Chennai Super Kings , Gujarat Titans
+2022,1304109,Lucknow Super Giants v Rajasthan Royals,LSG v RR,LSG,RR,KL Rahul,Sanju Samson,"Brabourne Stadium, Mumbai",Lucknow Super Giants , Rajasthan Royals
+2022,1304110,Punjab Kings v Delhi Capitals,PBKS v DC,PBKS,DC,Mayank Agarwal,Rishabh Pant,"Dr DY Patil Sports Academy, Navi Mumbai",Punjab Kings , Delhi Capitals
+2022,1304111,Mumbai Indians v Sunrisers Hyderabad,MI v SRH,MI,SRH,Rohit Sharma,Kane Williamson,"Wankhede Stadium, Mumbai",Mumbai Indians , Sunrisers Hyderabad
+2022,1304112,Kolkata Knight Riders v Lucknow Super Giants,KKR v LSG,KKR,LSG,Shreyas Iyer,KL Rahul,"Dr DY Patil Sports Academy, Navi Mumbai",Kolkata Knight Riders , Lucknow Super Giants
+2022,1304113,Royal Challengers Bangalore v Gujarat Titans,RCB v GT,RCB,GT,Faf du Plessis,Hardik Pandya,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore , Gujarat Titans
+2022,1304114,Rajasthan Royals v Chennai Super Kings,RR v CSK,RR,CSK,Sanju Samson,MS Dhoni,"Brabourne Stadium, Mumbai",Rajasthan Royals , Chennai Super Kings
+2022,1304115,Mumbai Indians v Delhi Capitals,MI v DC,MI,DC,Rohit Sharma,Rishabh Pant,"Wankhede Stadium, Mumbai",Mumbai Indians , Delhi Capitals
+2022,1304116,Sunrisers Hyderabad v Punjab Kings,SRH v PBKS,SRH,PBKS,Bhuvneshwar Kumar,Mayank Agarwal,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad , Punjab Kings
+2022,1312197,Gujarat Titans v Rajasthan Royals,GT v RR,GT,RR,Hardik Pandya,Sanju Samson,"Eden Gardens, Kolkata",Gujarat Titans , Rajasthan Royals
+2022,1312198,Lucknow Super Giants v Royal Challengers Bangalore,LSG v RCB,LSG,RCB,KL Rahul,Faf du Plessis,"Eden Gardens, Kolkata",Lucknow Super Giants , Royal Challengers Bangalore
+2022,1312199,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Sanju Samson,Faf du Plessis,"Narendra Modi Stadium, Motera, Ahmedabad",Rajasthan Royals , Royal Challengers Bangalore
+2022,1312200,Gujarat Titans v Rajasthan Royals,GT v RR,GT,RR,Hardik Pandya,Sanju Samson,"Narendra Modi Stadium, Motera, Ahmedabad",Gujarat Titans , Rajasthan Royals
+2021,1254117,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Eoin Morgan,Dubai International Cricket Stadium,Chennai Super Kings , Kolkata Knight Riders
+2021,1254116,Delhi Capitals v Kolkata Knight Riders,DC v KKR,DC,KKR,Rishabh Pant,Eoin Morgan,Sharjah Cricket Stadium,Delhi Capitals , Kolkata Knight Riders
+2021,1254115,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Virat Kohli,Eoin Morgan,Sharjah Cricket Stadium,Royal Challengers Bangalore , Kolkata Knight Riders
+2021,1254114,Delhi Capitals v Chennai Super Kings,DC v CSK,DC,CSK,Rishabh Pant,MS Dhoni,Dubai International Cricket Stadium,Delhi Capitals , Chennai Super Kings
+2021,1254101,Royal Challengers Bangalore v Delhi Capitals,RCB v DC,RCB,DC,Virat Kohli,Rishabh Pant,Dubai International Cricket Stadium,Royal Challengers Bangalore , Delhi Capitals
+2021,1254088,Sunrisers Hyderabad v Mumbai Indians,SRH v MI,SRH,MI,Manish Pandey,Rohit Sharma,"Sheikh Zayed Stadium, Abu Dhabi",Sunrisers Hyderabad , Mumbai Indians
+2021,1254106,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Eoin Morgan,Sanju Samson,Sharjah Cricket Stadium,Kolkata Knight Riders , Rajasthan Royals
+2021,1254094,Chennai Super Kings v Punjab Kings,CSK v PBKS,CSK,PBKS,MS Dhoni,KL Rahul,Dubai International Cricket Stadium,Chennai Super Kings , Punjab Kings
+2021,1254095,Royal Challengers Bangalore v Sunrisers Hyderabad,RCB v SRH,RCB,SRH,Virat Kohli,Kane Williamson,"Sheikh Zayed Stadium, Abu Dhabi",Royal Challengers Bangalore , Sunrisers Hyderabad
+2021,1254093,Rajasthan Royals v Mumbai Indians,RR v MI,RR,MI,Sanju Samson,Rohit Sharma,Sharjah Cricket Stadium,Rajasthan Royals , Mumbai Indians
+2021,1254110,Delhi Capitals v Chennai Super Kings,DC v CSK,DC,CSK,Rishabh Pant,MS Dhoni,Dubai International Cricket Stadium,Delhi Capitals , Chennai Super Kings
+2021,1254109,Kolkata Knight Riders v Sunrisers Hyderabad,KKR v SRH,KKR,SRH,Eoin Morgan,Kane Williamson,Dubai International Cricket Stadium,Kolkata Knight Riders , Sunrisers Hyderabad
+2021,1254090,Royal Challengers Bangalore v Punjab Kings,RCB v PBKS,RCB,PBKS,Virat Kohli,KL Rahul,Sharjah Cricket Stadium,Royal Challengers Bangalore , Punjab Kings
+2021,1254089,Rajasthan Royals v Chennai Super Kings,RR v CSK,RR,CSK,Sanju Samson,MS Dhoni,"Sheikh Zayed Stadium, Abu Dhabi",Rajasthan Royals , Chennai Super Kings
+2021,1254112,Mumbai Indians v Delhi Capitals,MI v DC,MI,DC,Rohit Sharma,Rishabh Pant,Sharjah Cricket Stadium,Mumbai Indians , Delhi Capitals
+2021,1254102,Kolkata Knight Riders v Punjab Kings,KKR v PBKS,KKR,PBKS,Eoin Morgan,KL Rahul,Dubai International Cricket Stadium,Kolkata Knight Riders , Punjab Kings
+2021,1254091,Sunrisers Hyderabad v Chennai Super Kings,SRH v CSK,SRH,CSK,Kane Williamson,MS Dhoni,Sharjah Cricket Stadium,Sunrisers Hyderabad , Chennai Super Kings
+2021,1254103,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Sanju Samson,Virat Kohli,Dubai International Cricket Stadium,Rajasthan Royals , Royal Challengers Bangalore
+2021,1254099,Mumbai Indians v Punjab Kings,MI v PBKS,MI,PBKS,Rohit Sharma,KL Rahul,"Sheikh Zayed Stadium, Abu Dhabi",Mumbai Indians , Punjab Kings
+2021,1254092,Kolkata Knight Riders v Delhi Capitals,KKR v DC,KKR,DC,Eoin Morgan,Rishabh Pant,Sharjah Cricket Stadium,Kolkata Knight Riders , Delhi Capitals
+2021,1254100,Sunrisers Hyderabad v Rajasthan Royals,SRH v RR,SRH,RR,Kane Williamson,Sanju Samson,Dubai International Cricket Stadium,Sunrisers Hyderabad , Rajasthan Royals
+2021,1254108,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Virat Kohli,Rohit Sharma,Dubai International Cricket Stadium,Royal Challengers Bangalore , Mumbai Indians
+2021,1254098,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Eoin Morgan,"Sheikh Zayed Stadium, Abu Dhabi",Chennai Super Kings , Kolkata Knight Riders
+2021,1254107,Sunrisers Hyderabad v Punjab Kings,SRH v PBKS,SRH,PBKS,Kane Williamson,KL Rahul,Sharjah Cricket Stadium,Sunrisers Hyderabad , Punjab Kings
+2021,1254097,Delhi Capitals v Rajasthan Royals,DC v RR,DC,RR,Rishabh Pant,Sanju Samson,"Sheikh Zayed Stadium, Abu Dhabi",Delhi Capitals , Rajasthan Royals
+2021,1254113,Royal Challengers Bangalore v Chennai Super Kings,RCB v CSK,RCB,CSK,Virat Kohli,MS Dhoni,Sharjah Cricket Stadium,Royal Challengers Bangalore , Chennai Super Kings
+2021,1254096,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Rohit Sharma,Eoin Morgan,"Sheikh Zayed Stadium, Abu Dhabi",Mumbai Indians , Kolkata Knight Riders
+2021,1254105,Delhi Capitals v Sunrisers Hyderabad,DC v SRH,DC,SRH,Rishabh Pant,Kane Williamson,Dubai International Cricket Stadium,Delhi Capitals , Sunrisers Hyderabad
+2021,1254111,Punjab Kings v Rajasthan Royals,PBKS v RR,PBKS,RR,KL Rahul,Sanju Samson,Dubai International Cricket Stadium,Punjab Kings , Rajasthan Royals
+2021,1254087,Kolkata Knight Riders v Royal Challengers Bangalore,KKR v RCB,KKR,RCB,Eoin Morgan,Virat Kohli,"Sheikh Zayed Stadium, Abu Dhabi",Kolkata Knight Riders , Royal Challengers Bangalore
+2021,1254104,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Kieron Pollard,Dubai International Cricket Stadium,Chennai Super Kings , Mumbai Indians
+2021,1254086,Punjab Kings v Delhi Capitals,PBKS v DC,PBKS,DC,Mayank Agarwal,Rishabh Pant,"Narendra Modi Stadium, Motera, Ahmedabad",Punjab Kings , Delhi Capitals
+2021,1254085,Rajasthan Royals v Sunrisers Hyderabad,RR v SRH,RR,SRH,Sanju Samson,Kane Williamson,"Arun Jaitley Stadium, Delhi",Rajasthan Royals , Sunrisers Hyderabad
+2021,1254084,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Rohit Sharma,MS Dhoni,"Arun Jaitley Stadium, Delhi",Mumbai Indians , Chennai Super Kings
+2021,1254083,Punjab Kings v Royal Challengers Bangalore,PBKS v RCB,PBKS,RCB,KL Rahul,Virat Kohli,"Narendra Modi Stadium, Motera, Ahmedabad",Punjab Kings , Royal Challengers Bangalore
+2021,1254082,Delhi Capitals v Kolkata Knight Riders,DC v KKR,DC,KKR,Rishabh Pant,Eoin Morgan,"Narendra Modi Stadium, Motera, Ahmedabad",Delhi Capitals , Kolkata Knight Riders
+2021,1254081,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Rohit Sharma,Sanju Samson,"Arun Jaitley Stadium, Delhi",Mumbai Indians , Rajasthan Royals
+2021,1254080,Chennai Super Kings v Sunrisers Hyderabad,CSK v SRH,CSK,SRH,MS Dhoni,David Warner,"Arun Jaitley Stadium, Delhi",Chennai Super Kings , Sunrisers Hyderabad
+2021,1254079,Delhi Capitals v Royal Challengers Bangalore,DC v RCB,DC,RCB,Rishabh Pant,Virat Kohli,"Narendra Modi Stadium, Motera, Ahmedabad",Delhi Capitals , Royal Challengers Bangalore
+2021,1254078,Punjab Kings v Kolkata Knight Riders,PBKS v KKR,PBKS,KKR,KL Rahul,Eoin Morgan,"Narendra Modi Stadium, Motera, Ahmedabad",Punjab Kings , Kolkata Knight Riders
+2021,1254077,Sunrisers Hyderabad v Delhi Capitals,SRH v DC,SRH,DC,David Warner,Rishabh Pant,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad , Delhi Capitals
+2021,1254076,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Virat Kohli,"Wankhede Stadium, Mumbai",Chennai Super Kings , Royal Challengers Bangalore
+2021,1254075,Rajasthan Royals v Kolkata Knight Riders,RR v KKR,RR,KKR,Sanju Samson,Eoin Morgan,"Wankhede Stadium, Mumbai",Rajasthan Royals , Kolkata Knight Riders
+2021,1254074,Punjab Kings v Mumbai Indians,PBKS v MI,PBKS,MI,KL Rahul,Rohit Sharma,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings , Mumbai Indians
+2021,1254073,Royal Challengers Bangalore v Rajasthan Royals,RCB v RR,RCB,RR,Virat Kohli,Sanju Samson,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore , Rajasthan Royals
+2021,1254072,Kolkata Knight Riders v Chennai Super Kings,KKR v CSK,KKR,CSK,Eoin Morgan,MS Dhoni,"Wankhede Stadium, Mumbai",Kolkata Knight Riders , Chennai Super Kings
+2021,1254071,Punjab Kings v Sunrisers Hyderabad,PBKS v SRH,PBKS,SRH,KL Rahul,David Warner,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings , Sunrisers Hyderabad
+2021,1254070,Delhi Capitals v Mumbai Indians,DC v MI,DC,MI,Rishabh Pant,Rohit Sharma,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals , Mumbai Indians
+2021,1254069,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Sanju Samson,"Wankhede Stadium, Mumbai",Chennai Super Kings , Rajasthan Royals
+2021,1254068,Delhi Capitals v Punjab Kings,DC v PBKS,DC,PBKS,Rishabh Pant,KL Rahul,"Wankhede Stadium, Mumbai",Delhi Capitals , Punjab Kings
+2021,1254067,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Virat Kohli,Eoin Morgan,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bangalore , Kolkata Knight Riders
+2021,1254066,Mumbai Indians v Sunrisers Hyderabad,MI v SRH,MI,SRH,Rohit Sharma,David Warner,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians , Sunrisers Hyderabad
+2021,1254065,Punjab Kings v Chennai Super Kings,PBKS v CSK,PBKS,CSK,KL Rahul,MS Dhoni,"Wankhede Stadium, Mumbai",Punjab Kings , Chennai Super Kings
+2021,1254064,Rajasthan Royals v Delhi Capitals,RR v DC,RR,DC,Sanju Samson,Rishabh Pant,"Wankhede Stadium, Mumbai",Rajasthan Royals , Delhi Capitals
+2021,1254063,Sunrisers Hyderabad v Royal Challengers Bangalore,SRH v RCB,SRH,RCB,David Warner,Virat Kohli,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad , Royal Challengers Bangalore
+2021,1254062,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Eoin Morgan,Rohit Sharma,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders , Mumbai Indians
+2021,1254061,Rajasthan Royals v Punjab Kings,RR v PBKS,RR,PBKS,Sanju Samson,KL Rahul,"Wankhede Stadium, Mumbai",Rajasthan Royals , Punjab Kings
+2021,1254060,Sunrisers Hyderabad v Kolkata Knight Riders,SRH v KKR,SRH,KKR,David Warner,Eoin Morgan,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad , Kolkata Knight Riders
+2021,1254059,Chennai Super Kings v Delhi Capitals,CSK v DC,CSK,DC,MS Dhoni,Rishabh Pant,"Wankhede Stadium, Mumbai",Chennai Super Kings , Delhi Capitals
+2021,1254058,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Rohit Sharma,Virat Kohli,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians , Royal Challengers Bangalore
+2020,1216492,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Rohit Sharma,MS Dhoni,"Sheikh Zayed Stadium, Abu Dhabi",Mumbai Indians , Chennai Super Kings
+2020,1216493,Delhi Capitals v Kings XI Punjab,DC v KXIP,DC,KXIP,Shreyas Iyer,KL Rahul,Dubai International Cricket Stadium,Delhi Capitals , Kings XI Punjab
+2020,1216534,Sunrisers Hyderabad v Royal Challengers Bangalore,SRH v RCB,SRH,RCB,David Warner,Virat Kohli,Dubai International Cricket Stadium,Sunrisers Hyderabad , Royal Challengers Bangalore
+2020,1216496,Rajasthan Royals v Chennai Super Kings,RR v CSK,RR,CSK,Steven Smith,MS Dhoni,Sharjah Cricket Stadium,Rajasthan Royals , Chennai Super Kings
+2020,1216508,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Dinesh Karthik,Rohit Sharma,"Sheikh Zayed Stadium, Abu Dhabi",Kolkata Knight Riders , Mumbai Indians
+2020,1216510,Kings XI Punjab v Royal Challengers Bangalore,KXIP v RCB,KXIP,RCB,KL Rahul,Virat Kohli,Dubai International Cricket Stadium,Kings XI Punjab , Royal Challengers Bangalore
+2020,1216539,Chennai Super Kings v Delhi Capitals,CSK v DC,CSK,DC,MS Dhoni,Shreyas Iyer,Dubai International Cricket Stadium,Chennai Super Kings , Delhi Capitals
+2020,1216545,Kolkata Knight Riders v Sunrisers Hyderabad,KKR v SRH,KKR,SRH,Dinesh Karthik,David Warner,"Sheikh Zayed Stadium, Abu Dhabi",Kolkata Knight Riders , Sunrisers Hyderabad
+2020,1216527,Rajasthan Royals v Kings XI Punjab,RR v KXIP,RR,KXIP,Steven Smith,KL Rahul,Sharjah Cricket Stadium,Rajasthan Royals , Kings XI Punjab
+2020,1216547,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Virat Kohli,Rohit Sharma,Dubai International Cricket Stadium,Royal Challengers Bangalore , Mumbai Indians
+2020,1216532,Delhi Capitals v Sunrisers Hyderabad,DC v SRH,DC,SRH,Shreyas Iyer,David Warner,"Sheikh Zayed Stadium, Abu Dhabi",Delhi Capitals , Sunrisers Hyderabad
+2020,1216504,Rajasthan Royals v Kolkata Knight Riders,RR v KKR,RR,KKR,Steven Smith,Dinesh Karthik,Dubai International Cricket Stadium,Rajasthan Royals , Kolkata Knight Riders
+2020,1216503,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,KL Rahul,Rohit Sharma,"Sheikh Zayed Stadium, Abu Dhabi",Kings XI Punjab , Mumbai Indians
+2020,1216516,Chennai Super Kings v Sunrisers Hyderabad,CSK v SRH,CSK,SRH,MS Dhoni,David Warner,Dubai International Cricket Stadium,Chennai Super Kings , Sunrisers Hyderabad
+2020,1216514,Royal Challengers Bangalore v Rajasthan Royals,RCB v RR,RCB,RR,Virat Kohli,Steven Smith,"Sheikh Zayed Stadium, Abu Dhabi",Royal Challengers Bangalore , Rajasthan Royals
+2020,1216515,Delhi Capitals v Kolkata Knight Riders,DC v KKR,DC,KKR,Shreyas Iyer,Dinesh Karthik,Sharjah Cricket Stadium,Delhi Capitals , Kolkata Knight Riders
+2020,1216538,Mumbai Indians v Sunrisers Hyderabad,MI v SRH,MI,SRH,Rohit Sharma,David Warner,Sharjah Cricket Stadium,Mumbai Indians , Sunrisers Hyderabad
+2020,1216513,Kings XI Punjab v Chennai Super Kings,KXIP v CSK,KXIP,CSK,KL Rahul,MS Dhoni,Dubai International Cricket Stadium,Kings XI Punjab , Chennai Super Kings
+2020,1216519,Royal Challengers Bangalore v Delhi Capitals,RCB v DC,RCB,DC,Virat Kohli,Shreyas Iyer,Dubai International Cricket Stadium,Royal Challengers Bangalore , Delhi Capitals
+2020,1216511,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Rohit Sharma,Steven Smith,"Sheikh Zayed Stadium, Abu Dhabi",Mumbai Indians , Rajasthan Royals
+2020,1216501,Kolkata Knight Riders v Chennai Super Kings,KKR v CSK,KKR,CSK,Dinesh Karthik,MS Dhoni,"Sheikh Zayed Stadium, Abu Dhabi",Kolkata Knight Riders , Chennai Super Kings
+2020,1216542,Sunrisers Hyderabad v Kings XI Punjab,SRH v KXIP,SRH,KXIP,David Warner,KL Rahul,Dubai International Cricket Stadium,Sunrisers Hyderabad , Kings XI Punjab
+2020,1216500,Rajasthan Royals v Delhi Capitals,RR v DC,RR,DC,Steven Smith,Shreyas Iyer,Sharjah Cricket Stadium,Rajasthan Royals , Delhi Capitals
+2020,1216523,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,KL Rahul,Dinesh Karthik,"Sheikh Zayed Stadium, Abu Dhabi",Kings XI Punjab , Kolkata Knight Riders
+2020,1216525,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Virat Kohli,Dubai International Cricket Stadium,Chennai Super Kings , Royal Challengers Bangalore
+2020,1216507,Sunrisers Hyderabad v Rajasthan Royals,SRH v RR,SRH,RR,David Warner,Steven Smith,Dubai International Cricket Stadium,Sunrisers Hyderabad , Rajasthan Royals
+2020,1216529,Mumbai Indians v Delhi Capitals,MI v DC,MI,DC,Rohit Sharma,Shreyas Iyer,"Sheikh Zayed Stadium, Abu Dhabi",Mumbai Indians , Delhi Capitals
+2020,1216540,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Virat Kohli,Dinesh Karthik,Sharjah Cricket Stadium,Royal Challengers Bangalore , Kolkata Knight Riders
+2020,1216528,Sunrisers Hyderabad v Chennai Super Kings,SRH v CSK,SRH,CSK,David Warner,MS Dhoni,Dubai International Cricket Stadium,Sunrisers Hyderabad , Chennai Super Kings
+2020,1216543,Delhi Capitals v Rajasthan Royals,DC v RR,DC,RR,Shreyas Iyer,Steven Smith,Dubai International Cricket Stadium,Delhi Capitals , Rajasthan Royals
+2020,1216531,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Virat Kohli,KL Rahul,Sharjah Cricket Stadium,Royal Challengers Bangalore , Kings XI Punjab
+2020,1216526,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Rohit Sharma,Eoin Morgan,"Sheikh Zayed Stadium, Abu Dhabi",Mumbai Indians , Kolkata Knight Riders
+2020,1216522,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Steven Smith,Virat Kohli,Dubai International Cricket Stadium,Rajasthan Royals , Royal Challengers Bangalore
+2020,1216509,Delhi Capitals v Chennai Super Kings,DC v CSK,DC,CSK,Shreyas Iyer,MS Dhoni,Sharjah Cricket Stadium,Delhi Capitals , Chennai Super Kings
+2020,1216512,Sunrisers Hyderabad v Kolkata Knight Riders,SRH v KKR,SRH,KKR,David Warner,Eoin Morgan,"Sheikh Zayed Stadium, Abu Dhabi",Sunrisers Hyderabad , Kolkata Knight Riders
+2020,1216517,Mumbai Indians v Kings XI Punjab,MI v KXIP,MI,KXIP,Rohit Sharma,KL Rahul,Dubai International Cricket Stadium,Mumbai Indians , Kings XI Punjab
+2020,1216533,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Steven Smith,"Sheikh Zayed Stadium, Abu Dhabi",Chennai Super Kings , Rajasthan Royals
+2020,1216546,Kings XI Punjab v Delhi Capitals,KXIP v DC,KXIP,DC,KL Rahul,Shreyas Iyer,Dubai International Cricket Stadium,Kings XI Punjab , Delhi Capitals
+2020,1216494,Kolkata Knight Riders v Royal Challengers Bangalore,KKR v RCB,KKR,RCB,Eoin Morgan,Virat Kohli,"Sheikh Zayed Stadium, Abu Dhabi",Kolkata Knight Riders , Royal Challengers Bangalore
+2020,1216518,Rajasthan Royals v Sunrisers Hyderabad,RR v SRH,RR,SRH,Steven Smith,David Warner,Dubai International Cricket Stadium,Rajasthan Royals , Sunrisers Hyderabad
+2020,1216521,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Kieron Pollard,Sharjah Cricket Stadium,Chennai Super Kings , Mumbai Indians
+2020,1216497,Kolkata Knight Riders v Delhi Capitals,KKR v DC,KKR,DC,Eoin Morgan,Shreyas Iyer,"Sheikh Zayed Stadium, Abu Dhabi",Kolkata Knight Riders , Delhi Capitals
+2020,1216498,Kings XI Punjab v Sunrisers Hyderabad,KXIP v SRH,KXIP,SRH,KL Rahul,David Warner,Dubai International Cricket Stadium,Kings XI Punjab , Sunrisers Hyderabad
+2020,1216544,Royal Challengers Bangalore v Chennai Super Kings,RCB v CSK,RCB,CSK,Virat Kohli,MS Dhoni,Dubai International Cricket Stadium,Royal Challengers Bangalore , Chennai Super Kings
+2020,1216541,Rajasthan Royals v Mumbai Indians,RR v MI,RR,MI,Steven Smith,Kieron Pollard,"Sheikh Zayed Stadium, Abu Dhabi",Rajasthan Royals , Mumbai Indians
+2020,1216520,Kolkata Knight Riders v Kings XI Punjab,KKR v KXIP,KKR,KXIP,Eoin Morgan,KL Rahul,Sharjah Cricket Stadium,Kolkata Knight Riders , Kings XI Punjab
+2020,1216524,Sunrisers Hyderabad v Delhi Capitals,SRH v DC,SRH,DC,David Warner,Shreyas Iyer,Dubai International Cricket Stadium,Sunrisers Hyderabad , Delhi Capitals
+2020,1216499,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Kieron Pollard,Virat Kohli,"Sheikh Zayed Stadium, Abu Dhabi",Mumbai Indians , Royal Challengers Bangalore
+2020,1216536,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Eoin Morgan,Dubai International Cricket Stadium,Chennai Super Kings , Kolkata Knight Riders
+2020,1216537,Kings XI Punjab v Rajasthan Royals,KXIP v RR,KXIP,RR,KL Rahul,Steven Smith,"Sheikh Zayed Stadium, Abu Dhabi",Kings XI Punjab , Rajasthan Royals
+2020,1216535,Delhi Capitals v Mumbai Indians,DC v MI,DC,MI,Shreyas Iyer,Kieron Pollard,Dubai International Cricket Stadium,Delhi Capitals , Mumbai Indians
+2020,1216502,Royal Challengers Bangalore v Sunrisers Hyderabad,RCB v SRH,RCB,SRH,Virat Kohli,David Warner,Sharjah Cricket Stadium,Royal Challengers Bangalore , Sunrisers Hyderabad
+2020,1216506,Chennai Super Kings v Kings XI Punjab,CSK v KXIP,CSK,KXIP,MS Dhoni,KL Rahul,"Sheikh Zayed Stadium, Abu Dhabi",Chennai Super Kings , Kings XI Punjab
+2020,1216530,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Eoin Morgan,Steven Smith,Dubai International Cricket Stadium,Kolkata Knight Riders , Rajasthan Royals
+2020,1216505,Delhi Capitals v Royal Challengers Bangalore,DC v RCB,DC,RCB,Shreyas Iyer,Virat Kohli,"Sheikh Zayed Stadium, Abu Dhabi",Delhi Capitals , Royal Challengers Bangalore
+2020,1216495,Sunrisers Hyderabad v Mumbai Indians,SRH v MI,SRH,MI,David Warner,Rohit Sharma,Sharjah Cricket Stadium,Sunrisers Hyderabad , Mumbai Indians
+2020,1237177,Delhi Capitals v Mumbai Indians,DC v MI,DC,MI,Shreyas Iyer,Rohit Sharma,Dubai International Cricket Stadium,Delhi Capitals , Mumbai Indians
+2020,1237178,Royal Challengers Bangalore v Sunrisers Hyderabad,RCB v SRH,RCB,SRH,Virat Kohli,David Warner,"Sheikh Zayed Stadium, Abu Dhabi",Royal Challengers Bangalore , Sunrisers Hyderabad
+2020,1237180,Delhi Capitals v Sunrisers Hyderabad,DC v SRH,DC,SRH,Shreyas Iyer,David Warner,"Sheikh Zayed Stadium, Abu Dhabi",Delhi Capitals , Sunrisers Hyderabad
+2020,1237181,Delhi Capitals v Mumbai Indians,DC v MI,DC,MI,Shreyas Iyer,Rohit Sharma,Dubai International Cricket Stadium,Delhi Capitals , Mumbai Indians
+2019,1175356,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Virat Kohli,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Royal Challengers Bangalore
+2019,1175357,Kolkata Knight Riders v Sunrisers Hyderabad,KKR v SRH,KKR,SRH,Dinesh Karthik,Bhuvneshwar Kumar,"Eden Gardens, Kolkata",Kolkata Knight Riders , Sunrisers Hyderabad
+2019,1175358,Mumbai Indians v Delhi Capitals,MI v DC,MI,DC,Rohit Sharma,Shreyas Iyer,"Wankhede Stadium, Mumbai",Mumbai Indians , Delhi Capitals
+2019,1175359,Rajasthan Royals v Kings XI Punjab,RR v KXIP,RR,KXIP,Ajinkya Rahane,Ravichandran Ashwin,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Kings XI Punjab
+2019,1175360,Delhi Capitals v Chennai Super Kings,DC v CSK,DC,CSK,Shreyas Iyer,MS Dhoni,"Arun Jaitley Stadium, Delhi",Delhi Capitals , Chennai Super Kings
+2019,1175361,Kolkata Knight Riders v Kings XI Punjab,KKR v KXIP,KKR,KXIP,Dinesh Karthik,Ravichandran Ashwin,"Eden Gardens, Kolkata",Kolkata Knight Riders , Kings XI Punjab
+2019,1175362,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Virat Kohli,Rohit Sharma,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Mumbai Indians
+2019,1175363,Sunrisers Hyderabad v Rajasthan Royals,SRH v RR,SRH,RR,Kane Williamson,Ajinkya Rahane,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Rajasthan Royals
+2019,1175364,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,Ravichandran Ashwin,Rohit Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Mumbai Indians
+2019,1175365,Delhi Capitals v Kolkata Knight Riders,DC v KKR,DC,KKR,Shreyas Iyer,Dinesh Karthik,"Arun Jaitley Stadium, Delhi",Delhi Capitals , Kolkata Knight Riders
+2019,1175366,Sunrisers Hyderabad v Royal Challengers Bangalore,SRH v RCB,SRH,RCB,Bhuvneshwar Kumar,Virat Kohli,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Royal Challengers Bangalore
+2019,1175367,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Ajinkya Rahane,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Rajasthan Royals
+2019,1175368,Kings XI Punjab v Delhi Capitals,KXIP v DC,KXIP,DC,Ravichandran Ashwin,Shreyas Iyer,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Delhi Capitals
+2019,1175369,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Ajinkya Rahane,Virat Kohli,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Royal Challengers Bangalore
+2019,1175370,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Rohit Sharma,MS Dhoni,"Wankhede Stadium, Mumbai",Mumbai Indians , Chennai Super Kings
+2019,1175371,Delhi Capitals v Sunrisers Hyderabad,DC v SRH,DC,SRH,Shreyas Iyer,Bhuvneshwar Kumar,"Arun Jaitley Stadium, Delhi",Delhi Capitals , Sunrisers Hyderabad
+2019,1175372,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Virat Kohli,Dinesh Karthik,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kolkata Knight Riders
+2019,1178393,Chennai Super Kings v Kings XI Punjab,CSK v KXIP,CSK,KXIP,MS Dhoni,Ravichandran Ashwin,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kings XI Punjab
+2019,1178394,Sunrisers Hyderabad v Mumbai Indians,SRH v MI,SRH,MI,Bhuvneshwar Kumar,Rohit Sharma,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Mumbai Indians
+2019,1178395,Royal Challengers Bangalore v Delhi Capitals,RCB v DC,RCB,DC,Virat Kohli,Shreyas Iyer,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Delhi Capitals
+2019,1178396,Rajasthan Royals v Kolkata Knight Riders,RR v KKR,RR,KKR,Ajinkya Rahane,Dinesh Karthik,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Kolkata Knight Riders
+2019,1178397,Kings XI Punjab v Sunrisers Hyderabad,KXIP v SRH,KXIP,SRH,Ravichandran Ashwin,Bhuvneshwar Kumar,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Sunrisers Hyderabad
+2019,1178398,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Dinesh Karthik,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kolkata Knight Riders
+2019,1178399,Mumbai Indians v Kings XI Punjab,MI v KXIP,MI,KXIP,Kieron Pollard,Ravichandran Ashwin,"Wankhede Stadium, Mumbai",Mumbai Indians , Kings XI Punjab
+2019,1178400,Rajasthan Royals v Chennai Super Kings,RR v CSK,RR,CSK,Ajinkya Rahane,MS Dhoni,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Chennai Super Kings
+2019,1178401,Kolkata Knight Riders v Delhi Capitals,KKR v DC,KKR,DC,Dinesh Karthik,Shreyas Iyer,"Eden Gardens, Kolkata",Kolkata Knight Riders , Delhi Capitals
+2019,1178402,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Rohit Sharma,Ajinkya Rahane,"Wankhede Stadium, Mumbai",Mumbai Indians , Rajasthan Royals
+2019,1178403,Kings XI Punjab v Royal Challengers Bangalore,KXIP v RCB,KXIP,RCB,Ravichandran Ashwin,Virat Kohli,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Royal Challengers Bangalore
+2019,1178404,Kolkata Knight Riders v Chennai Super Kings,KKR v CSK,KKR,CSK,Dinesh Karthik,MS Dhoni,"Eden Gardens, Kolkata",Kolkata Knight Riders , Chennai Super Kings
+2019,1178405,Sunrisers Hyderabad v Delhi Capitals,SRH v DC,SRH,DC,Kane Williamson,Shreyas Iyer,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Delhi Capitals
+2019,1178406,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Rohit Sharma,Virat Kohli,"Wankhede Stadium, Mumbai",Mumbai Indians , Royal Challengers Bangalore
+2019,1178407,Kings XI Punjab v Rajasthan Royals,KXIP v RR,KXIP,RR,Ravichandran Ashwin,Ajinkya Rahane,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Rajasthan Royals
+2019,1178408,Sunrisers Hyderabad v Chennai Super Kings,SRH v CSK,SRH,CSK,Kane Williamson,Suresh Raina,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Chennai Super Kings
+2019,1178409,Delhi Capitals v Mumbai Indians,DC v MI,DC,MI,Shreyas Iyer,Rohit Sharma,"Arun Jaitley Stadium, Delhi",Delhi Capitals , Mumbai Indians
+2019,1178410,Kolkata Knight Riders v Royal Challengers Bangalore,KKR v RCB,KKR,RCB,Dinesh Karthik,Virat Kohli,"Eden Gardens, Kolkata",Kolkata Knight Riders , Royal Challengers Bangalore
+2019,1178411,Rajasthan Royals v Mumbai Indians,RR v MI,RR,MI,Steven Smith,Rohit Sharma,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Mumbai Indians
+2019,1178412,Delhi Capitals v Kings XI Punjab,DC v KXIP,DC,KXIP,Shreyas Iyer,Ravichandran Ashwin,"Arun Jaitley Stadium, Delhi",Delhi Capitals , Kings XI Punjab
+2019,1178413,Sunrisers Hyderabad v Kolkata Knight Riders,SRH v KKR,SRH,KKR,Kane Williamson,Dinesh Karthik,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Kolkata Knight Riders
+2019,1178414,Royal Challengers Bangalore v Chennai Super Kings,RCB v CSK,RCB,CSK,Virat Kohli,MS Dhoni,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Chennai Super Kings
+2019,1178415,Rajasthan Royals v Delhi Capitals,RR v DC,RR,DC,Steven Smith,Shreyas Iyer,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Delhi Capitals
+2019,1178416,Chennai Super Kings v Sunrisers Hyderabad,CSK v SRH,CSK,SRH,MS Dhoni,Bhuvneshwar Kumar,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Sunrisers Hyderabad
+2019,1178417,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Virat Kohli,Ravichandran Ashwin,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kings XI Punjab
+2019,1178418,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Dinesh Karthik,Steven Smith,"Eden Gardens, Kolkata",Kolkata Knight Riders , Rajasthan Royals
+2019,1178419,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,Suresh Raina,Rohit Sharma,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Mumbai Indians
+2019,1178420,Rajasthan Royals v Sunrisers Hyderabad,RR v SRH,RR,SRH,Steven Smith,Kane Williamson,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Sunrisers Hyderabad
+2019,1178421,Delhi Capitals v Royal Challengers Bangalore,DC v RCB,DC,RCB,Shreyas Iyer,Virat Kohli,"Arun Jaitley Stadium, Delhi",Delhi Capitals , Royal Challengers Bangalore
+2019,1178422,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Dinesh Karthik,Rohit Sharma,"Eden Gardens, Kolkata",Kolkata Knight Riders , Mumbai Indians
+2019,1178423,Sunrisers Hyderabad v Kings XI Punjab,SRH v KXIP,SRH,KXIP,Kane Williamson,Ravichandran Ashwin,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Kings XI Punjab
+2019,1178424,Royal Challengers Bangalore v Rajasthan Royals,RCB v RR,RCB,RR,Virat Kohli,Steven Smith,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Rajasthan Royals
+2019,1178425,Chennai Super Kings v Delhi Capitals,CSK v DC,CSK,DC,MS Dhoni,Shreyas Iyer,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Delhi Capitals
+2019,1178426,Mumbai Indians v Sunrisers Hyderabad,MI v SRH,MI,SRH,Rohit Sharma,Kane Williamson,"Wankhede Stadium, Mumbai",Mumbai Indians , Sunrisers Hyderabad
+2019,1178427,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,Ravichandran Ashwin,Dinesh Karthik,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Kolkata Knight Riders
+2019,1178428,Delhi Capitals v Rajasthan Royals,DC v RR,DC,RR,Shreyas Iyer,Ajinkya Rahane,"Arun Jaitley Stadium, Delhi",Delhi Capitals , Rajasthan Royals
+2019,1178429,Royal Challengers Bangalore v Sunrisers Hyderabad,RCB v SRH,RCB,SRH,Virat Kohli,Kane Williamson,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Sunrisers Hyderabad
+2019,1178430,Kings XI Punjab v Chennai Super Kings,KXIP v CSK,KXIP,CSK,Ravichandran Ashwin,MS Dhoni,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Chennai Super Kings
+2019,1178431,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Rohit Sharma,Dinesh Karthik,"Wankhede Stadium, Mumbai",Mumbai Indians , Kolkata Knight Riders
+2019,1181764,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Rohit Sharma,MS Dhoni,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians , Chennai Super Kings
+2019,1181766,Delhi Capitals v Sunrisers Hyderabad,DC v SRH,DC,SRH,Shreyas Iyer,Kane Williamson,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals , Sunrisers Hyderabad
+2019,1181767,Chennai Super Kings v Delhi Capitals,CSK v DC,CSK,DC,MS Dhoni,Shreyas Iyer,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Chennai Super Kings , Delhi Capitals
+2019,1181768,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Rohit Sharma,MS Dhoni,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Mumbai Indians , Chennai Super Kings
+2018,1136561,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Rohit Sharma,MS Dhoni,"Wankhede Stadium, Mumbai",Mumbai Indians , Chennai Super Kings
+2018,1136562,Kings XI Punjab v Delhi Daredevils,KXIP v DC,KXIP,DC,Ravichandran Ashwin,Gautam Gambhir,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Delhi Darede
+2018,1136563,Kolkata Knight Riders v Royal Challengers Bangalore,KKR v RCB,KKR,RCB,Dinesh Karthik,Virat Kohli,"Eden Gardens, Kolkata",Kolkata Knight Riders , Royal Challengers Bangalore
+2018,1136564,Sunrisers Hyderabad v Rajasthan Royals,SRH v RR,SRH,RR,Kane Williamson,Ajinkya Rahane,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Rajasthan Royals
+2018,1136565,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Dinesh Karthik,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kolkata Knight Riders
+2018,1136566,Rajasthan Royals v Delhi Daredevils,RR v DC,RR,DC,Ajinkya Rahane,Gautam Gambhir,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Delhi Darede
+2018,1136567,Sunrisers Hyderabad v Mumbai Indians,SRH v MI,SRH,MI,Kane Williamson,Rohit Sharma,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Mumbai Indians
+2018,1136568,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Virat Kohli,Ravichandran Ashwin,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kings XI Punjab
+2018,1136569,Mumbai Indians v Delhi Daredevils,MI v DC,MI,DC,Rohit Sharma,Gautam Gambhir,"Wankhede Stadium, Mumbai",Mumbai Indians , Delhi Darede
+2018,1136570,Kolkata Knight Riders v Sunrisers Hyderabad,KKR v SRH,KKR,SRH,Dinesh Karthik,Kane Williamson,"Eden Gardens, Kolkata",Kolkata Knight Riders , Sunrisers Hyderabad
+2018,1136571,Royal Challengers Bangalore v Rajasthan Royals,RCB v RR,RCB,RR,Virat Kohli,Ajinkya Rahane,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Rajasthan Royals
+2018,1136572,Kings XI Punjab v Chennai Super Kings,KXIP v CSK,KXIP,CSK,Ravichandran Ashwin,MS Dhoni,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Chennai Super Kings
+2018,1136573,Kolkata Knight Riders v Delhi Daredevils,KKR v DC,KKR,DC,Dinesh Karthik,Gautam Gambhir,"Eden Gardens, Kolkata",Kolkata Knight Riders , Delhi Darede
+2018,1136574,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Rohit Sharma,Virat Kohli,"Wankhede Stadium, Mumbai",Mumbai Indians , Royal Challengers Bangalore
+2018,1136575,Rajasthan Royals v Kolkata Knight Riders,RR v KKR,RR,KKR,Ajinkya Rahane,Dinesh Karthik,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Kolkata Knight Riders
+2018,1136576,Kings XI Punjab v Sunrisers Hyderabad,KXIP v SRH,KXIP,SRH,Ravichandran Ashwin,Kane Williamson,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Sunrisers Hyderabad
+2018,1136577,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Ajinkya Rahane,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings , Rajasthan Royals
+2018,1136578,Kolkata Knight Riders v Kings XI Punjab,KKR v KXIP,KKR,KXIP,Dinesh Karthik,Ravichandran Ashwin,"Eden Gardens, Kolkata",Kolkata Knight Riders , Kings XI Punjab
+2018,1136579,Royal Challengers Bangalore v Delhi Daredevils,RCB v DC,RCB,DC,Virat Kohli,Gautam Gambhir,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Delhi Darede
+2018,1136580,Sunrisers Hyderabad v Chennai Super Kings,SRH v CSK,SRH,CSK,Kane Williamson,MS Dhoni,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Chennai Super Kings
+2018,1136581,Rajasthan Royals v Mumbai Indians,RR v MI,RR,MI,Ajinkya Rahane,Rohit Sharma,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Mumbai Indians
+2018,1136582,Delhi Daredevils v Kings XI Punjab,DC v KXIP,DC,KXIP,Gautam Gambhir,Ravichandran Ashwin,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2018,1136583,Mumbai Indians v Sunrisers Hyderabad,MI v SRH,MI,SRH,Rohit Sharma,Kane Williamson,"Wankhede Stadium, Mumbai",Mumbai Indians , Sunrisers Hyderabad
+2018,1136584,Royal Challengers Bangalore v Chennai Super Kings,RCB v CSK,RCB,CSK,Virat Kohli,MS Dhoni,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Chennai Super Kings
+2018,1136585,Sunrisers Hyderabad v Kings XI Punjab,SRH v KXIP,SRH,KXIP,Kane Williamson,Ravichandran Ashwin,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Kings XI Punjab
+2018,1136586,Delhi Daredevils v Kolkata Knight Riders,DC v KKR,DC,KKR,Shreyas Iyer,Dinesh Karthik,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2018,1136587,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Rohit Sharma,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings , Mumbai Indians
+2018,1136588,Rajasthan Royals v Sunrisers Hyderabad,RR v SRH,RR,SRH,Ajinkya Rahane,Kane Williamson,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Sunrisers Hyderabad
+2018,1136589,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Virat Kohli,Dinesh Karthik,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kolkata Knight Riders
+2018,1136590,Chennai Super Kings v Delhi Daredevils,CSK v DC,CSK,DC,MS Dhoni,Shreyas Iyer,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings , Delhi Darede
+2018,1136591,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Virat Kohli,Rohit Sharma,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Mumbai Indians
+2018,1136592,Delhi Daredevils v Rajasthan Royals,DC v RR,DC,RR,Shreyas Iyer,Ajinkya Rahane,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2018,1136593,Kolkata Knight Riders v Chennai Super Kings,KKR v CSK,KKR,CSK,Dinesh Karthik,MS Dhoni,"Eden Gardens, Kolkata",Kolkata Knight Riders , Chennai Super Kings
+2018,1136594,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,Ravichandran Ashwin,Rohit Sharma,"Holkar Cricket Stadium, Indore",Kings XI Punjab , Mumbai Indians
+2018,1136595,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Virat Kohli,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings , Royal Challengers Bangalore
+2018,1136596,Sunrisers Hyderabad v Delhi Daredevils,SRH v DC,SRH,DC,Kane Williamson,Shreyas Iyer,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Delhi Darede
+2018,1136597,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Rohit Sharma,Dinesh Karthik,"Wankhede Stadium, Mumbai",Mumbai Indians , Kolkata Knight Riders
+2018,1136598,Kings XI Punjab v Rajasthan Royals,KXIP v RR,KXIP,RR,Ravichandran Ashwin,Ajinkya Rahane,"Holkar Cricket Stadium, Indore",Kings XI Punjab , Rajasthan Royals
+2018,1136599,Sunrisers Hyderabad v Royal Challengers Bangalore,SRH v RCB,SRH,RCB,Kane Williamson,Virat Kohli,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Royal Challengers Bangalore
+2018,1136600,Rajasthan Royals v Kings XI Punjab,RR v KXIP,RR,KXIP,Ajinkya Rahane,Ravichandran Ashwin,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Kings XI Punjab
+2018,1136601,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Dinesh Karthik,Rohit Sharma,"Eden Gardens, Kolkata",Kolkata Knight Riders , Mumbai Indians
+2018,1136602,Delhi Daredevils v Sunrisers Hyderabad,DC v SRH,DC,SRH,Shreyas Iyer,Kane Williamson,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2018,1136603,Rajasthan Royals v Chennai Super Kings,RR v CSK,RR,CSK,Ajinkya Rahane,MS Dhoni,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Chennai Super Kings
+2018,1136604,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,Ravichandran Ashwin,Dinesh Karthik,"Holkar Cricket Stadium, Indore",Kings XI Punjab , Kolkata Knight Riders
+2018,1136605,Delhi Daredevils v Royal Challengers Bangalore,DC v RCB,DC,RCB,Shreyas Iyer,Virat Kohli,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2018,1136606,Chennai Super Kings v Sunrisers Hyderabad,CSK v SRH,CSK,SRH,MS Dhoni,Kane Williamson,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings , Sunrisers Hyderabad
+2018,1136607,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Rohit Sharma,Ajinkya Rahane,"Wankhede Stadium, Mumbai",Mumbai Indians , Rajasthan Royals
+2018,1136608,Kings XI Punjab v Royal Challengers Bangalore,KXIP v RCB,KXIP,RCB,Ravichandran Ashwin,Virat Kohli,"Holkar Cricket Stadium, Indore",Kings XI Punjab , Royal Challengers Bangalore
+2018,1136609,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Dinesh Karthik,Ajinkya Rahane,"Eden Gardens, Kolkata",Kolkata Knight Riders , Rajasthan Royals
+2018,1136610,Mumbai Indians v Kings XI Punjab,MI v KXIP,MI,KXIP,Rohit Sharma,Ravichandran Ashwin,"Wankhede Stadium, Mumbai",Mumbai Indians , Kings XI Punjab
+2018,1136611,Royal Challengers Bangalore v Sunrisers Hyderabad,RCB v SRH,RCB,SRH,Virat Kohli,Kane Williamson,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Sunrisers Hyderabad
+2018,1136612,Delhi Daredevils v Chennai Super Kings,DC v CSK,DC,CSK,Shreyas Iyer,MS Dhoni,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2018,1136613,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Ajinkya Rahane,Virat Kohli,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Royal Challengers Bangalore
+2018,1136614,Sunrisers Hyderabad v Kolkata Knight Riders,SRH v KKR,SRH,KKR,Kane Williamson,Dinesh Karthik,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Kolkata Knight Riders
+2018,1136615,Delhi Daredevils v Mumbai Indians,DC v MI,DC,MI,Shreyas Iyer,Rohit Sharma,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2018,1136616,Chennai Super Kings v Kings XI Punjab,CSK v KXIP,CSK,KXIP,MS Dhoni,Ravichandran Ashwin,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings , Kings XI Punjab
+2018,1136617,Sunrisers Hyderabad v Chennai Super Kings,SRH v CSK,SRH,CSK,Kane Williamson,MS Dhoni,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad , Chennai Super Kings
+2018,1136618,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Dinesh Karthik,Ajinkya Rahane,"Eden Gardens, Kolkata",Kolkata Knight Riders , Rajasthan Royals
+2018,1136619,Kolkata Knight Riders v Sunrisers Hyderabad,KKR v SRH,KKR,SRH,Dinesh Karthik,Kane Williamson,"Eden Gardens, Kolkata",Kolkata Knight Riders , Sunrisers Hyderabad
+2018,1136620,Chennai Super Kings v Sunrisers Hyderabad,CSK v SRH,CSK,SRH,MS Dhoni,Kane Williamson,"Wankhede Stadium, Mumbai",Chennai Super Kings , Sunrisers Hyderabad
+2017,1082591,Sunrisers Hyderabad v Royal Challengers Bangalore,SRH v RCB,SRH,RCB,David Warner,Shane Watson,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Royal Challengers Bangalore
+2017,1082592,Rising Pune Supergiant v Mumbai Indians,RPS v MI,RPS,MI,Steven Smith,Rohit Sharma,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiant , Mumbai Indians
+2017,1082593,Gujarat Lions v Kolkata Knight Riders,GL v KKR,GL,KKR,Suresh Raina,Gautam Gambhir,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions , Kolkata Knight Riders
+2017,1082594,Kings XI Punjab v Rising Pune Supergiant,KXIP v RPS,KXIP,RPS,Glenn Maxwell,Steven Smith,"Holkar Cricket Stadium, Indore",Kings XI Punjab , Rising Pune Supergiant
+2017,1082595,Royal Challengers Bangalore v Delhi Daredevils,RCB v DC,RCB,DC,Shane Watson,Zaheer Khan,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Delhi Darede
+2017,1082596,Sunrisers Hyderabad v Gujarat Lions,SRH v GL,SRH,GL,David Warner,Suresh Raina,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Gujarat Lions
+2017,1082597,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Rohit Sharma,Gautam Gambhir,"Wankhede Stadium, Mumbai",Mumbai Indians , Kolkata Knight Riders
+2017,1082598,Kings XI Punjab v Royal Challengers Bangalore,KXIP v RCB,KXIP,RCB,Glenn Maxwell,Shane Watson,"Holkar Cricket Stadium, Indore",Kings XI Punjab , Royal Challengers Bangalore
+2017,1082599,Rising Pune Supergiant v Delhi Daredevils,RPS v DC,RPS,DC,Ajinkya Rahane,Zaheer Khan,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiant , Delhi Darede
+2017,1082600,Mumbai Indians v Sunrisers Hyderabad,MI v SRH,MI,SRH,Rohit Sharma,David Warner,"Wankhede Stadium, Mumbai",Mumbai Indians , Sunrisers Hyderabad
+2017,1082601,Kolkata Knight Riders v Kings XI Punjab,KKR v KXIP,KKR,KXIP,Gautam Gambhir,Glenn Maxwell,"Eden Gardens, Kolkata",Kolkata Knight Riders , Kings XI Punjab
+2017,1082602,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Virat Kohli,Rohit Sharma,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Mumbai Indians
+2017,1082603,Gujarat Lions v Rising Pune Supergiant,GL v RPS,GL,RPS,Suresh Raina,Steven Smith,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions , Rising Pune Supergiant
+2017,1082604,Kolkata Knight Riders v Sunrisers Hyderabad,KKR v SRH,KKR,SRH,Gautam Gambhir,David Warner,"Eden Gardens, Kolkata",Kolkata Knight Riders , Sunrisers Hyderabad
+2017,1082605,Delhi Daredevils v Kings XI Punjab,DC v KXIP,DC,KXIP,Zaheer Khan,Glenn Maxwell,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2017,1082606,Mumbai Indians v Gujarat Lions,MI v GL,MI,GL,Rohit Sharma,Suresh Raina,"Wankhede Stadium, Mumbai",Mumbai Indians , Gujarat Lions
+2017,1082607,Royal Challengers Bangalore v Rising Pune Supergiant,RCB v RPS,RCB,RPS,Virat Kohli,Steven Smith,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Rising Pune Supergiant
+2017,1082608,Delhi Daredevils v Kolkata Knight Riders,DC v KKR,DC,KKR,Zaheer Khan,Gautam Gambhir,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2017,1082609,Sunrisers Hyderabad v Kings XI Punjab,SRH v KXIP,SRH,KXIP,David Warner,Glenn Maxwell,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Kings XI Punjab
+2017,1082610,Gujarat Lions v Royal Challengers Bangalore,GL v RCB,GL,RCB,Suresh Raina,Virat Kohli,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions , Royal Challengers Bangalore
+2017,1082611,Sunrisers Hyderabad v Delhi Daredevils,SRH v DC,SRH,DC,David Warner,Zaheer Khan,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Delhi Darede
+2017,1082612,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,Glenn Maxwell,Rohit Sharma,"Holkar Cricket Stadium, Indore",Kings XI Punjab , Mumbai Indians
+2017,1082613,Kolkata Knight Riders v Gujarat Lions,KKR v GL,KKR,GL,Gautam Gambhir,Suresh Raina,"Eden Gardens, Kolkata",Kolkata Knight Riders , Gujarat Lions
+2017,1082615,Rising Pune Supergiant v Sunrisers Hyderabad,RPS v SRH,RPS,SRH,Steven Smith,David Warner,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiant , Sunrisers Hyderabad
+2017,1082614,Mumbai Indians v Delhi Daredevils,MI v DC,MI,DC,Rohit Sharma,Zaheer Khan,"Wankhede Stadium, Mumbai",Mumbai Indians , Delhi Darede
+2017,1082616,Gujarat Lions v Kings XI Punjab,GL v KXIP,GL,KXIP,Suresh Raina,Glenn Maxwell,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions , Kings XI Punjab
+2017,1082617,Kolkata Knight Riders v Royal Challengers Bangalore,KKR v RCB,KKR,RCB,Gautam Gambhir,Virat Kohli,"Eden Gardens, Kolkata",Kolkata Knight Riders , Royal Challengers Bangalore
+2017,1082618,Mumbai Indians v Rising Pune Supergiant,MI v RPS,MI,RPS,Rohit Sharma,Steven Smith,"Wankhede Stadium, Mumbai",Mumbai Indians , Rising Pune Supergiant
+2017,1082620,Rising Pune Supergiant v Kolkata Knight Riders,RPS v KKR,RPS,KKR,Steven Smith,Gautam Gambhir,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiant , Kolkata Knight Riders
+2017,1082621,Royal Challengers Bangalore v Gujarat Lions,RCB v GL,RCB,GL,Virat Kohli,Suresh Raina,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Gujarat Lions
+2017,1082622,Kolkata Knight Riders v Delhi Daredevils,KKR v DC,KKR,DC,Gautam Gambhir,Zaheer Khan,"Eden Gardens, Kolkata",Kolkata Knight Riders , Delhi Darede
+2017,1082623,Kings XI Punjab v Sunrisers Hyderabad,KXIP v SRH,KXIP,SRH,Glenn Maxwell,David Warner,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Sunrisers Hyderabad
+2017,1082624,Rising Pune Supergiant v Royal Challengers Bangalore,RPS v RCB,RPS,RCB,Steven Smith,Virat Kohli,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiant , Royal Challengers Bangalore
+2017,1082625,Gujarat Lions v Mumbai Indians,GL v MI,GL,MI,Suresh Raina,Rohit Sharma,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions , Mumbai Indians
+2017,1082626,Kings XI Punjab v Delhi Daredevils,KXIP v DC,KXIP,DC,Glenn Maxwell,Karun Nair,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Delhi Darede
+2017,1082627,Sunrisers Hyderabad v Kolkata Knight Riders,SRH v KKR,SRH,KKR,David Warner,Gautam Gambhir,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Kolkata Knight Riders
+2017,1082628,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Rohit Sharma,Virat Kohli,"Wankhede Stadium, Mumbai",Mumbai Indians , Royal Challengers Bangalore
+2017,1082629,Rising Pune Supergiant v Gujarat Lions,RPS v GL,RPS,GL,Steven Smith,Suresh Raina,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiant , Gujarat Lions
+2017,1082630,Delhi Daredevils v Sunrisers Hyderabad,DC v SRH,DC,SRH,Karun Nair,David Warner,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2017,1082631,Kolkata Knight Riders v Rising Pune Supergiant,KKR v RPS,KKR,RPS,Gautam Gambhir,Steven Smith,"Eden Gardens, Kolkata",Kolkata Knight Riders , Rising Pune Supergiant
+2017,1082632,Delhi Daredevils v Gujarat Lions,DC v GL,DC,GL,Karun Nair,Suresh Raina,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2017,1082633,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Virat Kohli,Glenn Maxwell,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kings XI Punjab
+2017,1082634,Sunrisers Hyderabad v Rising Pune Supergiant,SRH v RPS,SRH,RPS,David Warner,Steven Smith,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Rising Pune Supergiant
+2017,1082635,Delhi Daredevils v Mumbai Indians,DC v MI,DC,MI,Zaheer Khan,Rohit Sharma,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2017,1082636,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Virat Kohli,Gautam Gambhir,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kolkata Knight Riders
+2017,1082637,Kings XI Punjab v Gujarat Lions,KXIP v GL,KXIP,GL,Glenn Maxwell,Suresh Raina,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Gujarat Lions
+2017,1082638,Sunrisers Hyderabad v Mumbai Indians,SRH v MI,SRH,MI,David Warner,Rohit Sharma,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Mumbai Indians
+2017,1082639,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,Glenn Maxwell,Gautam Gambhir,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Kolkata Knight Riders
+2017,1082640,Gujarat Lions v Delhi Daredevils,GL v DC,GL,DC,Suresh Raina,Zaheer Khan,"Green Park, Kanpur",Gujarat Lions , Delhi Darede
+2017,1082641,Mumbai Indians v Kings XI Punjab,MI v KXIP,MI,KXIP,Rohit Sharma,Glenn Maxwell,"Wankhede Stadium, Mumbai",Mumbai Indians , Kings XI Punjab
+2017,1082642,Delhi Daredevils v Rising Pune Supergiant,DC v RPS,DC,RPS,Zaheer Khan,Steven Smith,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2017,1082643,Gujarat Lions v Sunrisers Hyderabad,GL v SRH,GL,SRH,Suresh Raina,David Warner,"Green Park, Kanpur",Gujarat Lions , Sunrisers Hyderabad
+2017,1082644,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Gautam Gambhir,Rohit Sharma,"Eden Gardens, Kolkata",Kolkata Knight Riders , Mumbai Indians
+2017,1082645,Rising Pune Supergiant v Kings XI Punjab,RPS v KXIP,RPS,KXIP,Steven Smith,Glenn Maxwell,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiant , Kings XI Punjab
+2017,1082646,Delhi Daredevils v Royal Challengers Bangalore,DC v RCB,DC,RCB,Zaheer Khan,Virat Kohli,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2017,1082647,Mumbai Indians v Rising Pune Supergiant,MI v RPS,MI,RPS,Rohit Sharma,Steven Smith,"Wankhede Stadium, Mumbai",Mumbai Indians , Rising Pune Supergiant
+2017,1082648,Sunrisers Hyderabad v Kolkata Knight Riders,SRH v KKR,SRH,KKR,David Warner,Gautam Gambhir,"M.Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad , Kolkata Knight Riders
+2017,1082649,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Rohit Sharma,Gautam Gambhir,"M.Chinnaswamy Stadium, Bengaluru",Mumbai Indians , Kolkata Knight Riders
+2017,1082650,Mumbai Indians v Rising Pune Supergiant,MI v RPS,MI,RPS,Rohit Sharma,Steven Smith,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Mumbai Indians , Rising Pune Supergiant
+2016,980901,Mumbai Indians v Rising Pune Supergiants,MI v RPS,MI,RPS,Rohit Sharma,MS Dhoni,"Wankhede Stadium, Mumbai",Mumbai Indians , Rising Pune Supergiants
+2016,980903,Kolkata Knight Riders v Delhi Daredevils,KKR v DC,KKR,DC,Gautam Gambhir,Zaheer Khan,"Eden Gardens, Kolkata",Kolkata Knight Riders , Delhi Darede
+2016,980905,Kings XI Punjab v Gujarat Lions,KXIP v GL,KXIP,GL,David Miller,Suresh Raina,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Gujarat Lions
+2016,980907,Royal Challengers Bangalore v Sunrisers Hyderabad,RCB v SRH,RCB,SRH,Virat Kohli,David Warner,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Sunrisers Hyderabad
+2016,980909,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Gautam Gambhir,Rohit Sharma,"Eden Gardens, Kolkata",Kolkata Knight Riders , Mumbai Indians
+2016,980911,Gujarat Lions v Rising Pune Supergiants,GL v RPS,GL,RPS,Suresh Raina,MS Dhoni,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions , Rising Pune Supergiants
+2016,980913,Delhi Daredevils v Kings XI Punjab,DC v KXIP,DC,KXIP,Zaheer Khan,David Miller,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2016,980915,Sunrisers Hyderabad v Kolkata Knight Riders,SRH v KKR,SRH,KKR,David Warner,Gautam Gambhir,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Kolkata Knight Riders
+2016,980917,Mumbai Indians v Gujarat Lions,MI v GL,MI,GL,Rohit Sharma,Suresh Raina,"Wankhede Stadium, Mumbai",Mumbai Indians , Gujarat Lions
+2016,980919,Kings XI Punjab v Rising Pune Supergiants,KXIP v RPS,KXIP,RPS,David Miller,MS Dhoni,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Rising Pune Supergiants
+2016,980921,Royal Challengers Bangalore v Delhi Daredevils,RCB v DC,RCB,DC,Virat Kohli,Zaheer Khan,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Delhi Darede
+2016,980923,Sunrisers Hyderabad v Mumbai Indians,SRH v MI,SRH,MI,David Warner,Rohit Sharma,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Mumbai Indians
+2016,980925,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,David Miller,Gautam Gambhir,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Kolkata Knight Riders
+2016,980927,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Rohit Sharma,Virat Kohli,"Wankhede Stadium, Mumbai",Mumbai Indians , Royal Challengers Bangalore
+2016,980929,Gujarat Lions v Sunrisers Hyderabad,GL v SRH,GL,SRH,Suresh Raina,David Warner,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions , Sunrisers Hyderabad
+2016,980931,Rising Pune Supergiants v Royal Challengers Bangalore,RPS v RCB,RPS,RCB,MS Dhoni,Virat Kohli,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants , Royal Challengers Bangalore
+2016,980933,Delhi Daredevils v Mumbai Indians,DC v MI,DC,MI,Zaheer Khan,Rohit Sharma,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2016,980935,Sunrisers Hyderabad v Kings XI Punjab,SRH v KXIP,SRH,KXIP,David Warner,David Miller,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Kings XI Punjab
+2016,980937,Gujarat Lions v Royal Challengers Bangalore,GL v RCB,GL,RCB,Suresh Raina,Virat Kohli,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions , Royal Challengers Bangalore
+2016,980939,Rising Pune Supergiants v Kolkata Knight Riders,RPS v KKR,RPS,KKR,MS Dhoni,Gautam Gambhir,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants , Kolkata Knight Riders
+2016,980941,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,David Miller,Rohit Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Mumbai Indians
+2016,980943,Sunrisers Hyderabad v Rising Pune Supergiants,SRH v RPS,SRH,RPS,David Warner,MS Dhoni,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Rising Pune Supergiants
+2016,980945,Delhi Daredevils v Gujarat Lions,DC v GL,DC,GL,Zaheer Khan,Suresh Raina,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2016,980947,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Rohit Sharma,Gautam Gambhir,"Wankhede Stadium, Mumbai",Mumbai Indians , Kolkata Knight Riders
+2016,980949,Rising Pune Supergiants v Gujarat Lions,RPS v GL,RPS,GL,MS Dhoni,Suresh Raina,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants , Gujarat Lions
+2016,980951,Delhi Daredevils v Kolkata Knight Riders,DC v KKR,DC,KKR,Zaheer Khan,Gautam Gambhir,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2016,980953,Sunrisers Hyderabad v Royal Challengers Bangalore,SRH v RCB,SRH,RCB,David Warner,Virat Kohli,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Royal Challengers Bangalore
+2016,980955,Gujarat Lions v Kings XI Punjab,GL v KXIP,GL,KXIP,Suresh Raina,Murali Vijay,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions , Kings XI Punjab
+2016,980957,Rising Pune Supergiants v Mumbai Indians,RPS v MI,RPS,MI,MS Dhoni,Rohit Sharma,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants , Mumbai Indians
+2016,980959,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Virat Kohli,Gautam Gambhir,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kolkata Knight Riders
+2016,980961,Gujarat Lions v Delhi Daredevils,GL v DC,GL,DC,Suresh Raina,Zaheer Khan,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions , Delhi Darede
+2016,980963,Kolkata Knight Riders v Kings XI Punjab,KKR v KXIP,KKR,KXIP,Gautam Gambhir,Murali Vijay,"Eden Gardens, Kolkata",Kolkata Knight Riders , Kings XI Punjab
+2016,980965,Delhi Daredevils v Rising Pune Supergiants,DC v RPS,DC,RPS,Jean-Paul Duminy,MS Dhoni,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2016,980967,Sunrisers Hyderabad v Gujarat Lions,SRH v GL,SRH,GL,David Warner,Suresh Raina,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Gujarat Lions
+2016,980969,Royal Challengers Bangalore v Rising Pune Supergiants,RCB v RPS,RCB,RPS,Virat Kohli,MS Dhoni,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Rising Pune Supergiants
+2016,980971,Kings XI Punjab v Delhi Daredevils,KXIP v DC,KXIP,DC,Murali Vijay,Zaheer Khan,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Delhi Darede
+2016,980973,Mumbai Indians v Sunrisers Hyderabad,MI v SRH,MI,SRH,Rohit Sharma,David Warner,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Mumbai Indians , Sunrisers Hyderabad
+2016,980975,Kolkata Knight Riders v Gujarat Lions,KKR v GL,KKR,GL,Gautam Gambhir,Suresh Raina,"Eden Gardens, Kolkata",Kolkata Knight Riders , Gujarat Lions
+2016,980977,Kings XI Punjab v Royal Challengers Bangalore,KXIP v RCB,KXIP,RCB,Murali Vijay,Virat Kohli,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Royal Challengers Bangalore
+2016,980979,Rising Pune Supergiants v Sunrisers Hyderabad,RPS v SRH,RPS,SRH,MS Dhoni,David Warner,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Rising Pune Supergiants , Sunrisers Hyderabad
+2016,980981,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Virat Kohli,Rohit Sharma,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Mumbai Indians
+2016,980983,Sunrisers Hyderabad v Delhi Daredevils,SRH v DC,SRH,DC,David Warner,Jean-Paul Duminy,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Delhi Darede
+2016,980985,Mumbai Indians v Kings XI Punjab,MI v KXIP,MI,KXIP,Rohit Sharma,Murali Vijay,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Mumbai Indians , Kings XI Punjab
+2016,980987,Royal Challengers Bangalore v Gujarat Lions,RCB v GL,RCB,GL,Virat Kohli,Brendon McCullum,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Gujarat Lions
+2016,980989,Kolkata Knight Riders v Rising Pune Supergiants,KKR v RPS,KKR,RPS,Gautam Gambhir,MS Dhoni,"Eden Gardens, Kolkata",Kolkata Knight Riders , Rising Pune Supergiants
+2016,980991,Kings XI Punjab v Sunrisers Hyderabad,KXIP v SRH,KXIP,SRH,Murali Vijay,David Warner,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Sunrisers Hyderabad
+2016,980993,Mumbai Indians v Delhi Daredevils,MI v DC,MI,DC,Rohit Sharma,Zaheer Khan,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Mumbai Indians , Delhi Darede
+2016,980995,Kolkata Knight Riders v Royal Challengers Bangalore,KKR v RCB,KKR,RCB,Gautam Gambhir,Virat Kohli,"Eden Gardens, Kolkata",Kolkata Knight Riders , Royal Challengers Bangalore
+2016,980997,Rising Pune Supergiants v Delhi Daredevils,RPS v DC,RPS,DC,MS Dhoni,Zaheer Khan,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Rising Pune Supergiants , Delhi Darede
+2016,980999,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Virat Kohli,Murali Vijay,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kings XI Punjab
+2016,981001,Gujarat Lions v Kolkata Knight Riders,GL v KKR,GL,KKR,Suresh Raina,Gautam Gambhir,"Green Park, Kanpur",Gujarat Lions , Kolkata Knight Riders
+2016,981003,Delhi Daredevils v Sunrisers Hyderabad,DC v SRH,DC,SRH,Zaheer Khan,David Warner,"Shaheed Veer Narayan Singh International Stadium, Raipur",Delhi Darede,ils 
+2016,981005,Rising Pune Supergiants v Kings XI Punjab,RPS v KXIP,RPS,KXIP,MS Dhoni,Murali Vijay,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Rising Pune Supergiants , Kings XI Punjab
+2016,981007,Gujarat Lions v Mumbai Indians,GL v MI,GL,MI,Suresh Raina,Rohit Sharma,"Green Park, Kanpur",Gujarat Lions , Mumbai Indians
+2016,981009,Kolkata Knight Riders v Sunrisers Hyderabad,KKR v SRH,KKR,SRH,Gautam Gambhir,David Warner,"Eden Gardens, Kolkata",Kolkata Knight Riders , Sunrisers Hyderabad
+2016,981011,Delhi Daredevils v Royal Challengers Bangalore,DC v RCB,DC,RCB,Zaheer Khan,Virat Kohli,"Shaheed Veer Narayan Singh International Stadium, Raipur",Delhi Darede,ils 
+2016,981013,Royal Challengers Bangalore v Gujarat Lions,RCB v GL,RCB,GL,Virat Kohli,Suresh Raina,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Gujarat Lions
+2016,981015,Kolkata Knight Riders v Sunrisers Hyderabad,KKR v SRH,KKR,SRH,Gautam Gambhir,David Warner,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders , Sunrisers Hyderabad
+2016,981017,Gujarat Lions v Sunrisers Hyderabad,GL v SRH,GL,SRH,Suresh Raina,David Warner,"Arun Jaitley Stadium, Delhi",Gujarat Lions , Sunrisers Hyderabad
+2016,981019,Royal Challengers Bangalore v Sunrisers Hyderabad,RCB v SRH,RCB,SRH,Virat Kohli,David Warner,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Sunrisers Hyderabad
+2015,829705,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Gautam Gambhir,Rohit Sharma,"Eden Gardens, Kolkata",Kolkata Knight Riders , Mumbai Indians
+2015,829707,Chennai Super Kings v Delhi Daredevils,CSK v DC,CSK,DC,MS Dhoni,Jean-Paul Duminy,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Delhi Darede
+2015,829709,Kings XI Punjab v Rajasthan Royals,KXIP v RR,KXIP,RR,George Bailey,Steven Smith,"Maharashtra Cricket Association Stadium, Pune",Kings XI Punjab , Rajasthan Royals
+2015,829711,Chennai Super Kings v Sunrisers Hyderabad,CSK v SRH,CSK,SRH,MS Dhoni,David Warner,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Sunrisers Hyderabad
+2015,829713,Kolkata Knight Riders v Royal Challengers Bangalore,KKR v RCB,KKR,RCB,Gautam Gambhir,Virat Kohli,"Eden Gardens, Kolkata",Kolkata Knight Riders , Royal Challengers Bangalore
+2015,829715,Delhi Daredevils v Rajasthan Royals,DC v RR,DC,RR,Jean-Paul Duminy,Steven Smith,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2015,829717,Mumbai Indians v Kings XI Punjab,MI v KXIP,MI,KXIP,Rohit Sharma,George Bailey,"Wankhede Stadium, Mumbai",Mumbai Indians , Kings XI Punjab
+2015,829719,Royal Challengers Bangalore v Sunrisers Hyderabad,RCB v SRH,RCB,SRH,Virat Kohli,David Warner,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Sunrisers Hyderabad
+2015,829721,Rajasthan Royals v Mumbai Indians,RR v MI,RR,MI,Steven Smith,Rohit Sharma,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",Rajasthan Royals , Mumbai Indians
+2015,829725,Kings XI Punjab v Delhi Daredevils,KXIP v DC,KXIP,DC,George Bailey,Jean-Paul Duminy,"Maharashtra Cricket Association Stadium, Pune",Kings XI Punjab , Delhi Darede
+2015,829727,Sunrisers Hyderabad v Rajasthan Royals,SRH v RR,SRH,RR,David Warner,Steven Smith,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Sunrisers Hyderabad , Rajasthan Royals
+2015,829729,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Rohit Sharma,MS Dhoni,"Wankhede Stadium, Mumbai",Mumbai Indians , Chennai Super Kings
+2015,829731,Sunrisers Hyderabad v Delhi Daredevils,SRH v DC,SRH,DC,David Warner,Jean-Paul Duminy,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Sunrisers Hyderabad , Delhi Darede
+2015,829733,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,George Bailey,Gautam Gambhir,"Maharashtra Cricket Association Stadium, Pune",Kings XI Punjab , Kolkata Knight Riders
+2015,829735,Rajasthan Royals v Chennai Super Kings,RR v CSK,RR,CSK,Shane Watson,MS Dhoni,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",Rajasthan Royals , Chennai Super Kings
+2015,829737,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Virat Kohli,Rohit Sharma,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Mumbai Indians
+2015,829739,Delhi Daredevils v Kolkata Knight Riders,DC v KKR,DC,KKR,Jean-Paul Duminy,Gautam Gambhir,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2015,829741,Rajasthan Royals v Kings XI Punjab,RR v KXIP,RR,KXIP,Shane Watson,Virender Sehwag,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",Rajasthan Royals , Kings XI Punjab
+2015,829743,Sunrisers Hyderabad v Kolkata Knight Riders,SRH v KKR,SRH,KKR,David Warner,Gautam Gambhir,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Sunrisers Hyderabad , Kolkata Knight Riders
+2015,829745,Royal Challengers Bangalore v Chennai Super Kings,RCB v CSK,RCB,CSK,Virat Kohli,MS Dhoni,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Chennai Super Kings
+2015,829747,Delhi Daredevils v Mumbai Indians,DC v MI,DC,MI,Jean-Paul Duminy,Rohit Sharma,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2015,829749,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Shane Watson,Virat Kohli,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",Rajasthan Royals , Royal Challengers Bangalore
+2015,829751,Mumbai Indians v Sunrisers Hyderabad,MI v SRH,MI,SRH,Rohit Sharma,David Warner,"Wankhede Stadium, Mumbai",Mumbai Indians , Sunrisers Hyderabad
+2015,829753,Chennai Super Kings v Kings XI Punjab,CSK v KXIP,CSK,KXIP,MS Dhoni,George Bailey,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kings XI Punjab
+2015,829757,Delhi Daredevils v Royal Challengers Bangalore,DC v RCB,DC,RCB,Jean-Paul Duminy,Virat Kohli,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2015,829759,Kings XI Punjab v Sunrisers Hyderabad,KXIP v SRH,KXIP,SRH,George Bailey,David Warner,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Sunrisers Hyderabad
+2015,829765,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Gautam Gambhir,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kolkata Knight Riders
+2015,829763,Royal Challengers Bangalore v Rajasthan Royals,RCB v RR,RCB,RR,Virat Kohli,Shane Watson,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Rajasthan Royals
+2015,829723,Kolkata Knight Riders v Chennai Super Kings,KKR v CSK,KKR,CSK,Gautam Gambhir,MS Dhoni,"Eden Gardens, Kolkata",Kolkata Knight Riders , Chennai Super Kings
+2015,829767,Delhi Daredevils v Kings XI Punjab,DC v KXIP,DC,KXIP,Jean-Paul Duminy,George Bailey,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2015,829769,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Rohit Sharma,Shane Watson,"Wankhede Stadium, Mumbai",Mumbai Indians , Rajasthan Royals
+2015,829771,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Virat Kohli,Gautam Gambhir,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kolkata Knight Riders
+2015,829773,Sunrisers Hyderabad v Chennai Super Kings,SRH v CSK,SRH,CSK,David Warner,MS Dhoni,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Chennai Super Kings
+2015,829775,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,George Bailey,Rohit Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Mumbai Indians
+2015,829777,Rajasthan Royals v Delhi Daredevils,RR v DC,RR,DC,Shane Watson,Jean-Paul Duminy,"Brabourne Stadium, Mumbai",Rajasthan Royals , Delhi Darede
+2015,829779,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Virat Kohli,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Royal Challengers Bangalore
+2015,829781,Kolkata Knight Riders v Sunrisers Hyderabad,KKR v SRH,KKR,SRH,Gautam Gambhir,David Warner,"Eden Gardens, Kolkata",Kolkata Knight Riders , Sunrisers Hyderabad
+2015,829783,Mumbai Indians v Delhi Daredevils,MI v DC,MI,DC,Rohit Sharma,Jean-Paul Duminy,"Wankhede Stadium, Mumbai",Mumbai Indians , Delhi Darede
+2015,829785,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Virat Kohli,George Bailey,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kings XI Punjab
+2015,829787,Rajasthan Royals v Sunrisers Hyderabad,RR v SRH,RR,SRH,Shane Watson,David Warner,"Brabourne Stadium, Mumbai",Rajasthan Royals , Sunrisers Hyderabad
+2015,829761,Kolkata Knight Riders v Delhi Daredevils,KKR v DC,KKR,DC,Gautam Gambhir,Jean-Paul Duminy,"Eden Gardens, Kolkata",Kolkata Knight Riders , Delhi Darede
+2015,829789,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Rohit Sharma,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Mumbai Indians
+2015,829791,Kolkata Knight Riders v Kings XI Punjab,KKR v KXIP,KKR,KXIP,Gautam Gambhir,George Bailey,"Eden Gardens, Kolkata",Kolkata Knight Riders , Kings XI Punjab
+2015,829793,Delhi Daredevils v Sunrisers Hyderabad,DC v SRH,DC,SRH,Jean-Paul Duminy,David Warner,"Shaheed Veer Narayan Singh International Stadium, Raipur",Delhi Darede,ils 
+2015,829795,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Rohit Sharma,Virat Kohli,"Wankhede Stadium, Mumbai",Mumbai Indians , Royal Challengers Bangalore
+2015,829797,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Steven Smith,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Rajasthan Royals
+2015,829799,Sunrisers Hyderabad v Kings XI Punjab,SRH v KXIP,SRH,KXIP,David Warner,George Bailey,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Kings XI Punjab
+2015,829801,Delhi Daredevils v Chennai Super Kings,DC v CSK,DC,CSK,Jean-Paul Duminy,MS Dhoni,"Shaheed Veer Narayan Singh International Stadium, Raipur",Delhi Darede,ils 
+2015,829803,Kings XI Punjab v Royal Challengers Bangalore,KXIP v RCB,KXIP,RCB,George Bailey,Virat Kohli,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Royal Challengers Bangalore
+2015,829805,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Rohit Sharma,Gautam Gambhir,"Wankhede Stadium, Mumbai",Mumbai Indians , Kolkata Knight Riders
+2015,829807,Sunrisers Hyderabad v Royal Challengers Bangalore,SRH v RCB,SRH,RCB,David Warner,Virat Kohli,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Royal Challengers Bangalore
+2015,829809,Kings XI Punjab v Chennai Super Kings,KXIP v CSK,KXIP,CSK,George Bailey,MS Dhoni,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Chennai Super Kings
+2015,829811,Rajasthan Royals v Kolkata Knight Riders,RR v KKR,RR,KKR,Steven Smith,Gautam Gambhir,"Brabourne Stadium, Mumbai",Rajasthan Royals , Kolkata Knight Riders
+2015,829813,Royal Challengers Bangalore v Delhi Daredevils,RCB v DC,RCB,DC,Virat Kohli,Jean-Paul Duminy,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Delhi Darede
+2015,829815,Sunrisers Hyderabad v Mumbai Indians,SRH v MI,SRH,MI,David Warner,Rohit Sharma,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Mumbai Indians
+2015,829817,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Rohit Sharma,"Wankhede Stadium, Mumbai",Chennai Super Kings , Mumbai Indians
+2015,829819,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Steven Smith,Virat Kohli,"Maharashtra Cricket Association Stadium, Pune",Rajasthan Royals , Royal Challengers Bangalore
+2015,829821,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Virat Kohli,"JSCA International Stadium Complex, Ranchi",Chennai Super Kings , Royal Challengers Bangalore
+2015,829823,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Rohit Sharma,"Eden Gardens, Kolkata",Chennai Super Kings , Mumbai Indians
+2014,729279,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Rohit Sharma,Gautam Gambhir,"Sheikh Zayed Stadium, Abu Dhabi",Mumbai Indians , Kolkata Knight Riders
+2014,729281,Delhi Daredevils v Royal Challengers Bangalore,DC v RCB,DC,RCB,Dinesh Karthik,Virat Kohli,Sharjah Cricket Stadium,Delhi Darede,ils 
+2014,729283,Chennai Super Kings v Kings XI Punjab,CSK v KXIP,CSK,KXIP,MS Dhoni,George Bailey,"Sheikh Zayed Stadium, Abu Dhabi",Chennai Super Kings , Kings XI Punjab
+2014,729285,Sunrisers Hyderabad v Rajasthan Royals,SRH v RR,SRH,RR,Shikhar Dhawan,Shane Watson,"Sheikh Zayed Stadium, Abu Dhabi",Sunrisers Hyderabad , Rajasthan Royals
+2014,729287,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Virat Kohli,Rohit Sharma,Dubai International Cricket Stadium,Royal Challengers Bangalore , Mumbai Indians
+2014,729289,Kolkata Knight Riders v Delhi Daredevils,KKR v DC,KKR,DC,Gautam Gambhir,Dinesh Karthik,Dubai International Cricket Stadium,Kolkata Knight Riders , Delhi Darede
+2014,729291,Rajasthan Royals v Kings XI Punjab,RR v KXIP,RR,KXIP,Shane Watson,George Bailey,Sharjah Cricket Stadium,Rajasthan Royals , Kings XI Punjab
+2014,729293,Chennai Super Kings v Delhi Daredevils,CSK v DC,CSK,DC,MS Dhoni,Dinesh Karthik,"Sheikh Zayed Stadium, Abu Dhabi",Chennai Super Kings , Delhi Darede
+2014,729295,Kings XI Punjab v Sunrisers Hyderabad,KXIP v SRH,KXIP,SRH,George Bailey,Shikhar Dhawan,Sharjah Cricket Stadium,Kings XI Punjab , Sunrisers Hyderabad
+2014,729297,Rajasthan Royals v Chennai Super Kings,RR v CSK,RR,CSK,Shane Watson,MS Dhoni,Dubai International Cricket Stadium,Rajasthan Royals , Chennai Super Kings
+2014,729299,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Virat Kohli,Gautam Gambhir,Sharjah Cricket Stadium,Royal Challengers Bangalore , Kolkata Knight Riders
+2014,729301,Sunrisers Hyderabad v Delhi Daredevils,SRH v DC,SRH,DC,Shikhar Dhawan,Kevin Pietersen,Dubai International Cricket Stadium,Sunrisers Hyderabad , Delhi Darede
+2014,729303,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Rohit Sharma,Dubai International Cricket Stadium,Chennai Super Kings , Mumbai Indians
+2014,729305,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Shane Watson,Virat Kohli,"Sheikh Zayed Stadium, Abu Dhabi",Rajasthan Royals , Royal Challengers Bangalore
+2014,729307,Kolkata Knight Riders v Kings XI Punjab,KKR v KXIP,KKR,KXIP,Gautam Gambhir,George Bailey,"Sheikh Zayed Stadium, Abu Dhabi",Kolkata Knight Riders , Kings XI Punjab
+2014,729309,Delhi Daredevils v Mumbai Indians,DC v MI,DC,MI,Kevin Pietersen,Rohit Sharma,Sharjah Cricket Stadium,Delhi Darede,ils 
+2014,729311,Sunrisers Hyderabad v Chennai Super Kings,SRH v CSK,SRH,CSK,Shikhar Dhawan,MS Dhoni,Sharjah Cricket Stadium,Sunrisers Hyderabad , Chennai Super Kings
+2014,729313,Kings XI Punjab v Royal Challengers Bangalore,KXIP v RCB,KXIP,RCB,George Bailey,Virat Kohli,Dubai International Cricket Stadium,Kings XI Punjab , Royal Challengers Bangalore
+2014,729315,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Gautam Gambhir,Shane Watson,"Sheikh Zayed Stadium, Abu Dhabi",Kolkata Knight Riders , Rajasthan Royals
+2014,729317,Mumbai Indians v Sunrisers Hyderabad,MI v SRH,MI,SRH,Rohit Sharma,Shikhar Dhawan,Dubai International Cricket Stadium,Mumbai Indians , Sunrisers Hyderabad
+2014,733971,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Gautam Gambhir,"JSCA International Stadium Complex, Ranchi",Chennai Super Kings , Kolkata Knight Riders
+2014,733973,Mumbai Indians v Kings XI Punjab,MI v KXIP,MI,KXIP,Rohit Sharma,George Bailey,"Wankhede Stadium, Mumbai",Mumbai Indians , Kings XI Punjab
+2014,733975,Delhi Daredevils v Rajasthan Royals,DC v RR,DC,RR,Kevin Pietersen,Shane Watson,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2014,733977,Royal Challengers Bangalore v Sunrisers Hyderabad,RCB v SRH,RCB,SRH,Virat Kohli,Shikhar Dhawan,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Sunrisers Hyderabad
+2014,733979,Rajasthan Royals v Kolkata Knight Riders,RR v KKR,RR,KKR,Shane Watson,Gautam Gambhir,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",Rajasthan Royals , Kolkata Knight Riders
+2014,733981,Delhi Daredevils v Chennai Super Kings,DC v CSK,DC,CSK,Kevin Pietersen,MS Dhoni,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2014,733983,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Rohit Sharma,Virat Kohli,"Wankhede Stadium, Mumbai",Mumbai Indians , Royal Challengers Bangalore
+2014,733985,Delhi Daredevils v Kolkata Knight Riders,DC v KKR,DC,KKR,Kevin Pietersen,Gautam Gambhir,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2014,733987,Kings XI Punjab v Chennai Super Kings,KXIP v CSK,KXIP,CSK,George Bailey,MS Dhoni,"Barabati Stadium, Cuttack",Kings XI Punjab , Chennai Super Kings
+2014,733989,Rajasthan Royals v Sunrisers Hyderabad,RR v SRH,RR,SRH,Shane Watson,Shikhar Dhawan,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",Rajasthan Royals , Sunrisers Hyderabad
+2014,733991,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Virat Kohli,George Bailey,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kings XI Punjab
+2014,733993,Delhi Daredevils v Sunrisers Hyderabad,DC v SRH,DC,SRH,Kevin Pietersen,Shikhar Dhawan,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2014,733995,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Rohit Sharma,MS Dhoni,"Wankhede Stadium, Mumbai",Mumbai Indians , Chennai Super Kings
+2014,733997,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,George Bailey,Gautam Gambhir,"Barabati Stadium, Cuttack",Kings XI Punjab , Kolkata Knight Riders
+2014,733999,Royal Challengers Bangalore v Rajasthan Royals,RCB v RR,RCB,RR,Virat Kohli,Shane Watson,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Rajasthan Royals
+2014,734001,Sunrisers Hyderabad v Mumbai Indians,SRH v MI,SRH,MI,Shikhar Dhawan,Rohit Sharma,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Mumbai Indians
+2014,734003,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Shane Watson,"JSCA International Stadium Complex, Ranchi",Chennai Super Kings , Rajasthan Royals
+2014,734005,Royal Challengers Bangalore v Delhi Daredevils,RCB v DC,RCB,DC,Virat Kohli,Kevin Pietersen,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Delhi Darede
+2014,734007,Sunrisers Hyderabad v Kings XI Punjab,SRH v KXIP,SRH,KXIP,Shikhar Dhawan,George Bailey,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Kings XI Punjab
+2014,734009,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Gautam Gambhir,Rohit Sharma,"Barabati Stadium, Cuttack",Kolkata Knight Riders , Mumbai Indians
+2014,734011,Rajasthan Royals v Delhi Daredevils,RR v DC,RR,DC,Steven Smith,Kevin Pietersen,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",Rajasthan Royals , Delhi Darede
+2014,734013,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Virat Kohli,"JSCA International Stadium Complex, Ranchi",Chennai Super Kings , Royal Challengers Bangalore
+2014,734015,Sunrisers Hyderabad v Kolkata Knight Riders,SRH v KKR,SRH,KKR,Daren Sammy,Gautam Gambhir,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Kolkata Knight Riders
+2014,734017,Rajasthan Royals v Mumbai Indians,RR v MI,RR,MI,Shane Watson,Rohit Sharma,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",Rajasthan Royals , Mumbai Indians
+2014,734019,Delhi Daredevils v Kings XI Punjab,DC v KXIP,DC,KXIP,Kevin Pietersen,George Bailey,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2014,734021,Sunrisers Hyderabad v Royal Challengers Bangalore,SRH v RCB,SRH,RCB,Daren Sammy,Virat Kohli,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Royal Challengers Bangalore
+2014,734023,Kolkata Knight Riders v Chennai Super Kings,KKR v CSK,KKR,CSK,Gautam Gambhir,MS Dhoni,"Eden Gardens, Kolkata",Kolkata Knight Riders , Chennai Super Kings
+2014,734025,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,George Bailey,Rohit Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Mumbai Indians
+2014,734027,Kolkata Knight Riders v Royal Challengers Bangalore,KKR v RCB,KKR,RCB,Gautam Gambhir,Virat Kohli,"Eden Gardens, Kolkata",Kolkata Knight Riders , Royal Challengers Bangalore
+2014,734029,Chennai Super Kings v Sunrisers Hyderabad,CSK v SRH,CSK,SRH,MS Dhoni,Daren Sammy,"JSCA International Stadium Complex, Ranchi",Chennai Super Kings , Sunrisers Hyderabad
+2014,734031,Mumbai Indians v Delhi Daredevils,MI v DC,MI,DC,Rohit Sharma,Kevin Pietersen,"Wankhede Stadium, Mumbai",Mumbai Indians , Delhi Darede
+2014,734033,Kings XI Punjab v Rajasthan Royals,KXIP v RR,KXIP,RR,George Bailey,Shane Watson,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Rajasthan Royals
+2014,734035,Royal Challengers Bangalore v Chennai Super Kings,RCB v CSK,RCB,CSK,Virat Kohli,MS Dhoni,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Chennai Super Kings
+2014,734037,Kolkata Knight Riders v Sunrisers Hyderabad,KKR v SRH,KKR,SRH,Gautam Gambhir,Daren Sammy,"Eden Gardens, Kolkata",Kolkata Knight Riders , Sunrisers Hyderabad
+2014,734039,Kings XI Punjab v Delhi Daredevils,KXIP v DC,KXIP,DC,George Bailey,Kevin Pietersen,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Delhi Darede
+2014,734041,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Rohit Sharma,Shane Watson,"Wankhede Stadium, Mumbai",Mumbai Indians , Rajasthan Royals
+2014,734043,Kolkata Knight Riders v Kings XI Punjab,KKR v KXIP,KKR,KXIP,Gautam Gambhir,George Bailey,"Eden Gardens, Kolkata",Kolkata Knight Riders , Kings XI Punjab
+2014,734045,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Rohit Sharma,MS Dhoni,"Brabourne Stadium, Mumbai",Mumbai Indians , Chennai Super Kings
+2014,734047,Chennai Super Kings v Kings XI Punjab,CSK v KXIP,CSK,KXIP,MS Dhoni,George Bailey,"Wankhede Stadium, Mumbai",Chennai Super Kings , Kings XI Punjab
+2014,734049,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,George Bailey,Gautam Gambhir,"M.Chinnaswamy Stadium, Bengaluru",Kings XI Punjab , Kolkata Knight Riders
+2013,597998,Kolkata Knight Riders v Delhi Daredevils,KKR v DC,KKR,DC,Gautam Gambhir,Mahela Jayawardene,"Eden Gardens, Kolkata",Kolkata Knight Riders , Delhi Darede
+2013,597999,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Virat Kohli,Ricky Ponting,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Mumbai Indians
+2013,598000,Sunrisers Hyderabad v Pune Warriors,SRH v PWI,SRH,PWI,Kumar Sangakkara,Angelo Mathews,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Pune Warriors
+2013,598001,Delhi Daredevils v Rajasthan Royals,DC v RR,DC,RR,Mahela Jayawardene,Rahul Dravid,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2013,598002,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Ricky Ponting,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Mumbai Indians
+2013,598003,Pune Warriors v Kings XI Punjab,PWI v KXIP,PWI,KXIP,Angelo Mathews,Adam Gilchrist,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Kings XI Punjab
+2013,598004,Sunrisers Hyderabad v Royal Challengers Bangalore,SRH v RCB,SRH,RCB,Kumar Sangakkara,Virat Kohli,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Royal Challengers Bangalore
+2013,598005,Rajasthan Royals v Kolkata Knight Riders,RR v KKR,RR,KKR,Rahul Dravid,Gautam Gambhir,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Kolkata Knight Riders
+2013,598048,Royal Challengers Bangalore v Sunrisers Hyderabad,RCB v SRH,RCB,SRH,Virat Kohli,Kumar Sangakkara,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Sunrisers Hyderabad
+2013,598006,Mumbai Indians v Delhi Daredevils,MI v DC,MI,DC,Ricky Ponting,Mahela Jayawardene,"Wankhede Stadium, Mumbai",Mumbai Indians , Delhi Darede
+2013,598007,Kings XI Punjab v Chennai Super Kings,KXIP v CSK,KXIP,CSK,Adam Gilchrist,MS Dhoni,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Chennai Super Kings
+2013,598008,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Virat Kohli,Gautam Gambhir,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kolkata Knight Riders
+2013,598009,Pune Warriors v Rajasthan Royals,PWI v RR,PWI,RR,Angelo Mathews,Rahul Dravid,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Rajasthan Royals
+2013,598010,Delhi Daredevils v Sunrisers Hyderabad,DC v SRH,DC,SRH,Mahela Jayawardene,Kumar Sangakkara,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2013,598011,Mumbai Indians v Pune Warriors,MI v PWI,MI,PWI,Ricky Ponting,Angelo Mathews,"Wankhede Stadium, Mumbai",Mumbai Indians , Pune Warriors
+2013,598012,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Virat Kohli,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Royal Challengers Bangalore
+2013,598013,Kolkata Knight Riders v Sunrisers Hyderabad,KKR v SRH,KKR,SRH,Gautam Gambhir,Kumar Sangakkara,"Eden Gardens, Kolkata",Kolkata Knight Riders , Sunrisers Hyderabad
+2013,598014,Rajasthan Royals v Kings XI Punjab,RR v KXIP,RR,KXIP,Rahul Dravid,Adam Gilchrist,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Kings XI Punjab
+2013,598015,Chennai Super Kings v Pune Warriors,CSK v PWI,CSK,PWI,MS Dhoni,Ross Taylor,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Pune Warriors
+2013,598016,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,Adam Gilchrist,Gautam Gambhir,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Kolkata Knight Riders
+2013,598017,Royal Challengers Bangalore v Delhi Daredevils,RCB v DC,RCB,DC,Virat Kohli,Mahela Jayawardene,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Delhi Darede
+2013,598018,Pune Warriors v Sunrisers Hyderabad,PWI v SRH,PWI,SRH,Angelo Mathews,Cameron White,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Sunrisers Hyderabad
+2013,598019,Rajasthan Royals v Mumbai Indians,RR v MI,RR,MI,Rahul Dravid,Ricky Ponting,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Mumbai Indians
+2013,598020,Delhi Daredevils v Chennai Super Kings,DC v CSK,DC,CSK,Mahela Jayawardene,MS Dhoni,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2013,598021,Sunrisers Hyderabad v Kings XI Punjab,SRH v KXIP,SRH,KXIP,Cameron White,Adam Gilchrist,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Kings XI Punjab
+2013,598022,Kolkata Knight Riders v Chennai Super Kings,KKR v CSK,KKR,CSK,Gautam Gambhir,MS Dhoni,"Eden Gardens, Kolkata",Kolkata Knight Riders , Chennai Super Kings
+2013,598023,Royal Challengers Bangalore v Rajasthan Royals,RCB v RR,RCB,RR,Virat Kohli,Rahul Dravid,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Rajasthan Royals
+2013,598024,Delhi Daredevils v Mumbai Indians,DC v MI,DC,MI,Mahela Jayawardene,Ricky Ponting,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2013,598025,Kings XI Punjab v Pune Warriors,KXIP v PWI,KXIP,PWI,Adam Gilchrist,Aaron Finch,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Pune Warriors
+2013,598026,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Rahul Dravid,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Rajasthan Royals
+2013,598027,Royal Challengers Bangalore v Pune Warriors,RCB v PWI,RCB,PWI,Virat Kohli,Aaron Finch,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Pune Warriors
+2013,598059,Delhi Daredevils v Kings XI Punjab,DC v KXIP,DC,KXIP,Mahela Jayawardene,Adam Gilchrist,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2013,598029,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Gautam Gambhir,Rohit Sharma,"Eden Gardens, Kolkata",Kolkata Knight Riders , Mumbai Indians
+2013,598030,Chennai Super Kings v Sunrisers Hyderabad,CSK v SRH,CSK,SRH,MS Dhoni,Cameron White,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Sunrisers Hyderabad
+2013,598031,Kolkata Knight Riders v Kings XI Punjab,KKR v KXIP,KKR,KXIP,Gautam Gambhir,Adam Gilchrist,"Eden Gardens, Kolkata",Kolkata Knight Riders , Kings XI Punjab
+2013,598032,Rajasthan Royals v Sunrisers Hyderabad,RR v SRH,RR,SRH,Rahul Dravid,Kumar Sangakkara,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Sunrisers Hyderabad
+2013,598033,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Rohit Sharma,Virat Kohli,"Wankhede Stadium, Mumbai",Mumbai Indians , Royal Challengers Bangalore
+2013,598034,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Gautam Gambhir,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kolkata Knight Riders
+2013,598035,Delhi Daredevils v Pune Warriors,DC v PWI,DC,PWI,Mahela Jayawardene,Aaron Finch,"Shaheed Veer Narayan Singh International Stadium, Raipur",Delhi Darede,ils 
+2013,598036,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Rahul Dravid,Virat Kohli,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Royal Challengers Bangalore
+2013,598037,Mumbai Indians v Kings XI Punjab,MI v KXIP,MI,KXIP,Rohit Sharma,David Hussey,"Wankhede Stadium, Mumbai",Mumbai Indians , Kings XI Punjab
+2013,598038,Pune Warriors v Chennai Super Kings,PWI v CSK,PWI,CSK,Aaron Finch,MS Dhoni,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Chennai Super Kings
+2013,598039,Sunrisers Hyderabad v Mumbai Indians,SRH v MI,SRH,MI,Kumar Sangakkara,Rohit Sharma,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Mumbai Indians
+2013,598040,Delhi Daredevils v Kolkata Knight Riders,DC v KKR,DC,KKR,Mahela Jayawardene,Gautam Gambhir,"Shaheed Veer Narayan Singh International Stadium, Raipur",Delhi Darede,ils 
+2013,598041,Chennai Super Kings v Kings XI Punjab,CSK v KXIP,CSK,KXIP,MS Dhoni,David Hussey,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kings XI Punjab
+2013,598042,Pune Warriors v Royal Challengers Bangalore,PWI v RCB,PWI,RCB,Aaron Finch,Virat Kohli,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Royal Challengers Bangalore
+2013,598043,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Gautam Gambhir,Rahul Dravid,"Eden Gardens, Kolkata",Kolkata Knight Riders , Rajasthan Royals
+2013,598044,Sunrisers Hyderabad v Delhi Daredevils,SRH v DC,SRH,DC,Kumar Sangakkara,Mahela Jayawardene,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Delhi Darede
+2013,598046,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Rohit Sharma,MS Dhoni,"Wankhede Stadium, Mumbai",Mumbai Indians , Chennai Super Kings
+2013,598047,Rajasthan Royals v Pune Warriors,RR v PWI,RR,PWI,Rahul Dravid,Aaron Finch,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Pune Warriors
+2013,598064,Kings XI Punjab v Royal Challengers Bangalore,KXIP v RCB,KXIP,RCB,David Hussey,Virat Kohli,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Royal Challengers Bangalore
+2013,598049,Rajasthan Royals v Delhi Daredevils,RR v DC,RR,DC,Rahul Dravid,Mahela Jayawardene,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Delhi Darede
+2013,598050,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Rohit Sharma,Gautam Gambhir,"Wankhede Stadium, Mumbai",Mumbai Indians , Kolkata Knight Riders
+2013,598051,Sunrisers Hyderabad v Chennai Super Kings,SRH v CSK,SRH,CSK,Kumar Sangakkara,MS Dhoni,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Chennai Super Kings
+2013,598052,Kings XI Punjab v Rajasthan Royals,KXIP v RR,KXIP,RR,Adam Gilchrist,Rahul Dravid,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Rajasthan Royals
+2013,598053,Pune Warriors v Kolkata Knight Riders,PWI v KKR,PWI,KKR,Aaron Finch,Gautam Gambhir,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Kolkata Knight Riders
+2013,598054,Delhi Daredevils v Royal Challengers Bangalore,DC v RCB,DC,RCB,David Warner,Virat Kohli,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2013,598055,Pune Warriors v Mumbai Indians,PWI v MI,PWI,MI,Aaron Finch,Rohit Sharma,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Mumbai Indians
+2013,598056,Kings XI Punjab v Sunrisers Hyderabad,KXIP v SRH,KXIP,SRH,Adam Gilchrist,Cameron White,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Sunrisers Hyderabad
+2013,598057,Kolkata Knight Riders v Royal Challengers Bangalore,KKR v RCB,KKR,RCB,Gautam Gambhir,Virat Kohli,"JSCA International Stadium Complex, Ranchi",Kolkata Knight Riders , Royal Challengers Bangalore
+2013,598058,Rajasthan Royals v Chennai Super Kings,RR v CSK,RR,CSK,Rahul Dravid,MS Dhoni,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Chennai Super Kings
+2013,598060,Mumbai Indians v Sunrisers Hyderabad,MI v SRH,MI,SRH,Rohit Sharma,Cameron White,"Wankhede Stadium, Mumbai",Mumbai Indians , Sunrisers Hyderabad
+2013,598045,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Virat Kohli,Adam Gilchrist,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kings XI Punjab
+2013,598062,Chennai Super Kings v Delhi Daredevils,CSK v DC,CSK,DC,MS Dhoni,David Warner,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Delhi Darede
+2013,598061,Kolkata Knight Riders v Pune Warriors,KKR v PWI,KKR,PWI,Gautam Gambhir,Aaron Finch,"JSCA International Stadium Complex, Ranchi",Kolkata Knight Riders , Pune Warriors
+2013,598063,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Rohit Sharma,Rahul Dravid,"Wankhede Stadium, Mumbai",Mumbai Indians , Rajasthan Royals
+2013,598028,Kings XI Punjab v Delhi Daredevils,KXIP v DC,KXIP,DC,Adam Gilchrist,Mahela Jayawardene,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Kings XI Punjab , Delhi Darede
+2013,598065,Sunrisers Hyderabad v Rajasthan Royals,SRH v RR,SRH,RR,Cameron White,Rahul Dravid,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Rajasthan Royals
+2013,598066,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,Adam Gilchrist,Rohit Sharma,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Kings XI Punjab , Mumbai Indians
+2013,598068,Royal Challengers Bangalore v Chennai Super Kings,RCB v CSK,RCB,CSK,Virat Kohli,MS Dhoni,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Chennai Super Kings
+2013,598067,Pune Warriors v Delhi Daredevils,PWI v DC,PWI,DC,Aaron Finch,Mahela Jayawardene,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Delhi Darede
+2013,598069,Sunrisers Hyderabad v Kolkata Knight Riders,SRH v KKR,SRH,KKR,Cameron White,Gautam Gambhir,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad , Kolkata Knight Riders
+2013,598070,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Rohit Sharma,"Arun Jaitley Stadium, Delhi",Chennai Super Kings , Mumbai Indians
+2013,598071,Rajasthan Royals v Sunrisers Hyderabad,RR v SRH,RR,SRH,Rahul Dravid,Cameron White,"Arun Jaitley Stadium, Delhi",Rajasthan Royals , Sunrisers Hyderabad
+2013,598072,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Rohit Sharma,Rahul Dravid,"Eden Gardens, Kolkata",Mumbai Indians , Rajasthan Royals
+2013,598073,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Rohit Sharma,"Eden Gardens, Kolkata",Chennai Super Kings , Mumbai Indians
+2012,548306,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Harbhajan Singh,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Mumbai Indians
+2012,548307,Kolkata Knight Riders v Delhi Daredevils,KKR v DC,KKR,DC,Gautam Gambhir,Virender Sehwag,"Eden Gardens, Kolkata",Kolkata Knight Riders , Delhi Darede
+2012,548308,Mumbai Indians v Pune Warriors,MI v PWI,MI,PWI,Harbhajan Singh,Sourav Ganguly,"Wankhede Stadium, Mumbai",Mumbai Indians , Pune Warriors
+2012,548309,Rajasthan Royals v Kings XI Punjab,RR v KXIP,RR,KXIP,Rahul Dravid,Adam Gilchrist,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Kings XI Punjab
+2012,548310,Royal Challengers Bangalore v Delhi Daredevils,RCB v DC,RCB,DC,Daniel Vettori,Virender Sehwag,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Delhi Darede
+2012,548311,Deccan Chargers v Chennai Super Kings,DC v CSK,SRH,CSK,Cameron White,MS Dhoni,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Deccan Chargers , Chennai Super Kings
+2012,548312,Rajasthan Royals v Kolkata Knight Riders,RR v KKR,RR,KKR,Rahul Dravid,Gautam Gambhir,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Kolkata Knight Riders
+2012,548313,Pune Warriors v Kings XI Punjab,PWI v KXIP,PWI,KXIP,Sourav Ganguly,Adam Gilchrist,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Kings XI Punjab
+2012,548314,Deccan Chargers v Mumbai Indians,DC v MI,SRH,MI,Kumar Sangakkara,Harbhajan Singh,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Deccan Chargers , Mumbai Indians
+2012,548315,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Daniel Vettori,Gautam Gambhir,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kolkata Knight Riders
+2012,548316,Delhi Daredevils v Chennai Super Kings,DC v CSK,DC,CSK,Virender Sehwag,MS Dhoni,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2012,548317,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Harbhajan Singh,Rahul Dravid,"Wankhede Stadium, Mumbai",Mumbai Indians , Rajasthan Royals
+2012,548318,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Daniel Vettori,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Royal Challengers Bangalore
+2012,548319,Kings XI Punjab v Pune Warriors,KXIP v PWI,KXIP,PWI,Adam Gilchrist,Sourav Ganguly,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Pune Warriors
+2012,548320,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Gautam Gambhir,Rahul Dravid,"Eden Gardens, Kolkata",Kolkata Knight Riders , Rajasthan Royals
+2012,548322,Pune Warriors v Chennai Super Kings,PWI v CSK,PWI,CSK,Sourav Ganguly,MS Dhoni,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Chennai Super Kings
+2012,548323,Kolkata Knight Riders v Kings XI Punjab,KKR v KXIP,KKR,KXIP,Gautam Gambhir,Adam Gilchrist,"Eden Gardens, Kolkata",Kolkata Knight Riders , Kings XI Punjab
+2012,548324,Royal Challengers Bangalore v Rajasthan Royals,RCB v RR,RCB,RR,Daniel Vettori,Rahul Dravid,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Rajasthan Royals
+2012,548325,Mumbai Indians v Delhi Daredevils,MI v DC,MI,DC,Harbhajan Singh,Virender Sehwag,"Wankhede Stadium, Mumbai",Mumbai Indians , Delhi Darede
+2012,548326,Rajasthan Royals v Deccan Chargers,RR v DC,RR,SRH,Rahul Dravid,Kumar Sangakkara,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Deccan Chargers
+2012,548327,Royal Challengers Bangalore v Pune Warriors,RCB v PWI,RCB,PWI,Daniel Vettori,Sourav Ganguly,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Pune Warriors
+2012,548328,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,Adam Gilchrist,Gautam Gambhir,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Kolkata Knight Riders
+2012,548321,Delhi Daredevils v Deccan Chargers,DC v SRH,DC,SRH,Virender Sehwag,Kumar Sangakkara,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2012,548330,Chennai Super Kings v Pune Warriors,CSK v PWI,CSK,PWI,MS Dhoni,Sourav Ganguly,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Pune Warriors
+2012,548331,Kings XI Punjab v Royal Challengers Bangalore,KXIP v RCB,KXIP,RCB,David Hussey,Daniel Vettori,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Royal Challengers Bangalore
+2012,548332,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Rahul Dravid,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Rajasthan Royals
+2012,548333,Delhi Daredevils v Pune Warriors,DC v PWI,DC,PWI,Virender Sehwag,Sourav Ganguly,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2012,548334,Mumbai Indians v Kings XI Punjab,MI v KXIP,MI,KXIP,Harbhajan Singh,David Hussey,"Wankhede Stadium, Mumbai",Mumbai Indians , Kings XI Punjab
+2012,548335,Deccan Chargers v Kolkata Knight Riders,DC v KKR,SRH,KKR,Kumar Sangakkara,Gautam Gambhir,"Barabati Stadium, Cuttack",Deccan Chargers , Kolkata Knight Riders
+2012,548336,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Rahul Dravid,Daniel Vettori,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Royal Challengers Bangalore
+2012,548337,Pune Warriors v Delhi Daredevils,PWI v DC,PWI,DC,Sourav Ganguly,Virender Sehwag,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Delhi Darede
+2012,548339,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,David Hussey,Harbhajan Singh,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Mumbai Indians
+2012,548341,Pune Warriors v Deccan Chargers,PWI v DC,PWI,SRH,Sourav Ganguly,Kumar Sangakkara,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Deccan Chargers
+2012,548342,Delhi Daredevils v Mumbai Indians,DC v MI,DC,MI,Virender Sehwag,Harbhajan Singh,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2012,548343,Chennai Super Kings v Kings XI Punjab,CSK v KXIP,CSK,KXIP,MS Dhoni,David Hussey,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kings XI Punjab
+2012,548344,Kolkata Knight Riders v Royal Challengers Bangalore,KKR v RCB,KKR,RCB,Gautam Gambhir,Daniel Vettori,"Eden Gardens, Kolkata",Kolkata Knight Riders , Royal Challengers Bangalore
+2012,548345,Delhi Daredevils v Rajasthan Royals,DC v RR,DC,RR,Virender Sehwag,Rahul Dravid,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2012,548346,Mumbai Indians v Deccan Chargers,MI v DC,MI,SRH,Harbhajan Singh,Cameron White,"Wankhede Stadium, Mumbai",Mumbai Indians , Deccan Chargers
+2012,548347,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Gautam Gambhir,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kolkata Knight Riders
+2012,548348,Deccan Chargers v Pune Warriors,DC v PWI,SRH,PWI,Kumar Sangakkara,Sourav Ganguly,"Barabati Stadium, Cuttack",Deccan Chargers , Pune Warriors
+2012,548349,Rajasthan Royals v Delhi Daredevils,RR v DC,RR,DC,Rahul Dravid,Virender Sehwag,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Delhi Darede
+2012,548350,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Daniel Vettori,David Hussey,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kings XI Punjab
+2012,548351,Pune Warriors v Mumbai Indians,PWI v MI,PWI,MI,Sourav Ganguly,Harbhajan Singh,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Mumbai Indians
+2012,548352,Chennai Super Kings v Deccan Chargers,CSK v DC,CSK,SRH,MS Dhoni,Kumar Sangakkara,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Deccan Chargers
+2012,548353,Kolkata Knight Riders v Pune Warriors,KKR v PWI,KKR,PWI,Gautam Gambhir,Sourav Ganguly,"Eden Gardens, Kolkata",Kolkata Knight Riders , Pune Warriors
+2012,548354,Kings XI Punjab v Rajasthan Royals,KXIP v RR,KXIP,RR,David Hussey,Rahul Dravid,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Rajasthan Royals
+2012,548355,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Harbhajan Singh,MS Dhoni,"Wankhede Stadium, Mumbai",Mumbai Indians , Chennai Super Kings
+2012,548356,Royal Challengers Bangalore v Deccan Chargers,RCB v DC,RCB,SRH,Virat Kohli,Kumar Sangakkara,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Deccan Chargers
+2012,548357,Delhi Daredevils v Kolkata Knight Riders,DC v KKR,DC,KKR,Virender Sehwag,Gautam Gambhir,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2012,548358,Pune Warriors v Rajasthan Royals,PWI v RR,PWI,RR,Sourav Ganguly,Rahul Dravid,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Rajasthan Royals
+2012,548359,Deccan Chargers v Kings XI Punjab,DC v KXIP,SRH,KXIP,Kumar Sangakkara,David Hussey,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Kings XI Punjab
+2012,548360,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Harbhajan Singh,Virat Kohli,"Wankhede Stadium, Mumbai",Mumbai Indians , Royal Challengers Bangalore
+2012,548329,Deccan Chargers v Delhi Daredevils,SRH v DC,SRH,DC,Kumar Sangakkara,Virender Sehwag,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Delhi Darede
+2012,548361,Rajasthan Royals v Chennai Super Kings,RR v CSK,RR,CSK,Rahul Dravid,MS Dhoni,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Chennai Super Kings
+2012,548362,Pune Warriors v Royal Challengers Bangalore,PWI v RCB,PWI,RCB,Steven Smith,Virat Kohli,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Royal Challengers Bangalore
+2012,548363,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Gautam Gambhir,Harbhajan Singh,"Eden Gardens, Kolkata",Kolkata Knight Riders , Mumbai Indians
+2012,548364,Chennai Super Kings v Delhi Daredevils,CSK v DC,CSK,DC,MS Dhoni,Virender Sehwag,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Delhi Darede
+2012,548365,Rajasthan Royals v Pune Warriors,RR v PWI,RR,PWI,Rahul Dravid,Sourav Ganguly,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Pune Warriors
+2012,548366,Kings XI Punjab v Deccan Chargers,KXIP v DC,KXIP,SRH,David Hussey,Kumar Sangakkara,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Deccan Chargers
+2012,548367,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Virat Kohli,Harbhajan Singh,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Mumbai Indians
+2012,548368,Kolkata Knight Riders v Chennai Super Kings,KKR v CSK,KKR,CSK,Gautam Gambhir,MS Dhoni,"Eden Gardens, Kolkata",Kolkata Knight Riders , Chennai Super Kings
+2012,548369,Delhi Daredevils v Kings XI Punjab,DC v KXIP,DC,KXIP,Virender Sehwag,David Hussey,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2012,548370,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Harbhajan Singh,Gautam Gambhir,"Wankhede Stadium, Mumbai",Mumbai Indians , Kolkata Knight Riders
+2012,548371,Kings XI Punjab v Chennai Super Kings,KXIP v CSK,KXIP,CSK,Adam Gilchrist,MS Dhoni,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Kings XI Punjab , Chennai Super Kings
+2012,548372,Delhi Daredevils v Royal Challengers Bangalore,DC v RCB,DC,RCB,Mahela Jayawardene,Virat Kohli,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2012,548373,Deccan Chargers v Rajasthan Royals,DC v RR,SRH,RR,Cameron White,Rahul Dravid,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Rajasthan Royals
+2012,548374,Kings XI Punjab v Delhi Daredevils,KXIP v DC,KXIP,DC,Adam Gilchrist,Mahela Jayawardene,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Kings XI Punjab , Delhi Darede
+2012,548375,Pune Warriors v Kolkata Knight Riders,PWI v KKR,PWI,KKR,Sourav Ganguly,Gautam Gambhir,"Maharashtra Cricket Association Stadium, Pune",Pune Warriors , Kolkata Knight Riders
+2012,548376,Deccan Chargers v Royal Challengers Bangalore,DC v RCB,SRH,RCB,Kumar Sangakkara,Virat Kohli,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Royal Challengers Bangalore
+2012,548377,Rajasthan Royals v Mumbai Indians,RR v MI,RR,MI,Rahul Dravid,Harbhajan Singh,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Mumbai Indians
+2012,548378,Delhi Daredevils v Kolkata Knight Riders,DC v KKR,DC,KKR,Virender Sehwag,Gautam Gambhir,"Maharashtra Cricket Association Stadium, Pune",Delhi Darede,ils 
+2012,548379,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Harbhajan Singh,"M.Chinnaswamy Stadium, Bengaluru",Chennai Super Kings , Mumbai Indians
+2012,548380,Chennai Super Kings v Delhi Daredevils,CSK v DC,CSK,DC,MS Dhoni,Virender Sehwag,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Delhi Darede
+2012,548381,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Gautam Gambhir,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kolkata Knight Riders
+2011,501198,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Gautam Gambhir,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kolkata Knight Riders
+2011,501199,Deccan Chargers v Rajasthan Royals,DC v RR,SRH,RR,Kumar Sangakkara,Shane Warne,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Rajasthan Royals
+2011,501200,Kochi Tuskers Kerala v Royal Challengers Bangalore,Kochi v RCB,Kochi,RCB,Mahela Jayawardene,Daniel Vettori,"Nehru Stadium, Kochi",Kochi Tuskers Kerala , Royal Challengers Bangalore
+2011,501201,Delhi Daredevils v Mumbai Indians,DC v MI,DC,MI,Virender Sehwag,Sachin Tendulkar,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2011,501202,Pune Warriors v Kings XI Punjab,PWI v KXIP,PWI,KXIP,Yuvraj Singh,Adam Gilchrist,"Dr DY Patil Sports Academy, Mumbai",Pune Warriors , Kings XI Punjab
+2011,501203,Kolkata Knight Riders v Deccan Chargers,KKR v DC,KKR,SRH,Gautam Gambhir,Kumar Sangakkara,"Eden Gardens, Kolkata",Kolkata Knight Riders , Deccan Chargers
+2011,501204,Rajasthan Royals v Delhi Daredevils,RR v DC,RR,DC,Shane Warne,Virender Sehwag,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Delhi Darede
+2011,501205,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Daniel Vettori,Sachin Tendulkar,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Mumbai Indians
+2011,501206,Kings XI Punjab v Chennai Super Kings,KXIP v CSK,KXIP,CSK,Adam Gilchrist,MS Dhoni,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Chennai Super Kings
+2011,501207,Pune Warriors v Kochi Tuskers Kerala,PWI v Kochi,PWI,Kochi,Yuvraj Singh,Mahela Jayawardene,"Dr DY Patil Sports Academy, Mumbai",Pune Warriors , Kochi Tuskers Kerala
+2011,501208,Deccan Chargers v Royal Challengers Bangalore,DC v RCB,SRH,RCB,Kumar Sangakkara,Daniel Vettori,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Royal Challengers Bangalore
+2011,501209,Rajasthan Royals v Kolkata Knight Riders,RR v KKR,RR,KKR,Shane Warne,Gautam Gambhir,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Kolkata Knight Riders
+2011,501210,Mumbai Indians v Kochi Tuskers Kerala,MI v Kochi,MI,Kochi,Sachin Tendulkar,Mahela Jayawardene,"Wankhede Stadium, Mumbai",Mumbai Indians , Kochi Tuskers Kerala
+2011,501211,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Daniel Vettori,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Royal Challengers Bangalore
+2011,501212,Deccan Chargers v Kings XI Punjab,DC v KXIP,SRH,KXIP,Kumar Sangakkara,Adam Gilchrist,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Kings XI Punjab
+2011,501213,Pune Warriors v Delhi Daredevils,PWI v DC,PWI,DC,Yuvraj Singh,Virender Sehwag,"Dr DY Patil Sports Academy, Mumbai",Pune Warriors , Delhi Darede
+2011,501214,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Gautam Gambhir,Shane Warne,"Eden Gardens, Kolkata",Kolkata Knight Riders , Rajasthan Royals
+2011,501215,Kochi Tuskers Kerala v Chennai Super Kings,Kochi v CSK,Kochi,CSK,Mahela Jayawardene,MS Dhoni,"Nehru Stadium, Kochi",Kochi Tuskers Kerala , Chennai Super Kings
+2011,501216,Delhi Daredevils v Deccan Chargers,DC v SRH,DC,SRH,Virender Sehwag,Kumar Sangakkara,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2011,501218,Mumbai Indians v Pune Warriors,MI v PWI,MI,PWI,Sachin Tendulkar,Yuvraj Singh,"Wankhede Stadium, Mumbai",Mumbai Indians , Pune Warriors
+2011,501219,Kolkata Knight Riders v Kochi Tuskers Kerala,KKR v Kochi,KKR,Kochi,Gautam Gambhir,Mahela Jayawardene,"Eden Gardens, Kolkata",Kolkata Knight Riders , Kochi Tuskers Kerala
+2011,501220,Kings XI Punjab v Rajasthan Royals,KXIP v RR,KXIP,RR,Adam Gilchrist,Shane Warne,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Rajasthan Royals
+2011,501222,Kolkata Knight Riders v Royal Challengers Bangalore,KKR v RCB,KKR,RCB,Gautam Gambhir,Daniel Vettori,"Eden Gardens, Kolkata",Kolkata Knight Riders , Royal Challengers Bangalore
+2011,501221,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Sachin Tendulkar,MS Dhoni,"Wankhede Stadium, Mumbai",Mumbai Indians , Chennai Super Kings
+2011,501223,Delhi Daredevils v Kings XI Punjab,DC v KXIP,DC,KXIP,Virender Sehwag,Adam Gilchrist,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2011,501224,Deccan Chargers v Mumbai Indians,DC v MI,SRH,MI,Kumar Sangakkara,Sachin Tendulkar,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Mumbai Indians
+2011,501225,Rajasthan Royals v Kochi Tuskers Kerala,RR v Kochi,RR,Kochi,Shane Warne,Mahela Jayawardene,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Kochi Tuskers Kerala
+2011,501226,Chennai Super Kings v Pune Warriors,CSK v PWI,CSK,PWI,MS Dhoni,Yuvraj Singh,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Pune Warriors
+2011,501227,Delhi Daredevils v Royal Challengers Bangalore,DC v RCB,DC,RCB,Virender Sehwag,Daniel Vettori,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2011,501228,Pune Warriors v Chennai Super Kings,PWI v CSK,PWI,CSK,Yuvraj Singh,MS Dhoni,"Dr DY Patil Sports Academy, Mumbai",Pune Warriors , Chennai Super Kings
+2011,501229,Kochi Tuskers Kerala v Deccan Chargers,Kochi v DC,Kochi,SRH,Mahela Jayawardene,Kumar Sangakkara,"Nehru Stadium, Kochi",Kochi Tuskers Kerala , Deccan Chargers
+2011,501230,Delhi Daredevils v Kolkata Knight Riders,DC v KKR,DC,KKR,Virender Sehwag,Gautam Gambhir,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2011,501231,Rajasthan Royals v Mumbai Indians,RR v MI,RR,MI,Shane Warne,Sachin Tendulkar,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Mumbai Indians
+2011,501232,Royal Challengers Bangalore v Pune Warriors,RCB v PWI,RCB,PWI,Daniel Vettori,Yuvraj Singh,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Pune Warriors
+2011,501233,Kochi Tuskers Kerala v Delhi Daredevils,Kochi v DC,Kochi,DC,Mahela Jayawardene,Virender Sehwag,"Nehru Stadium, Kochi",Kochi Tuskers Kerala , Delhi Darede
+2011,501234,Kolkata Knight Riders v Kings XI Punjab,KKR v KXIP,KKR,KXIP,Gautam Gambhir,Adam Gilchrist,"Eden Gardens, Kolkata",Kolkata Knight Riders , Kings XI Punjab
+2011,501235,Rajasthan Royals v Pune Warriors,RR v PWI,RR,PWI,Shane Warne,Yuvraj Singh,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Pune Warriors
+2011,501236,Chennai Super Kings v Deccan Chargers,CSK v DC,CSK,SRH,MS Dhoni,Kumar Sangakkara,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Deccan Chargers
+2011,501237,Mumbai Indians v Kings XI Punjab,MI v KXIP,MI,KXIP,Sachin Tendulkar,Adam Gilchrist,"Wankhede Stadium, Mumbai",Mumbai Indians , Kings XI Punjab
+2011,501238,Delhi Daredevils v Kochi Tuskers Kerala,DC v Kochi,DC,Kochi,Virender Sehwag,Mahela Jayawardene,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2011,501239,Deccan Chargers v Kolkata Knight Riders,DC v KKR,SRH,KKR,Kumar Sangakkara,Gautam Gambhir,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Kolkata Knight Riders
+2011,501240,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Shane Warne,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Rajasthan Royals
+2011,501241,Pune Warriors v Mumbai Indians,PWI v MI,PWI,MI,Yuvraj Singh,Sachin Tendulkar,"Dr DY Patil Sports Academy, Mumbai",Pune Warriors , Mumbai Indians
+2011,501242,Kochi Tuskers Kerala v Kolkata Knight Riders,Kochi v KKR,Kochi,KKR,Mahela Jayawardene,Gautam Gambhir,"Nehru Stadium, Kochi",Kochi Tuskers Kerala , Kolkata Knight Riders
+2011,501243,Deccan Chargers v Delhi Daredevils,SRH v DC,SRH,DC,Kumar Sangakkara,Virender Sehwag,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Delhi Darede
+2011,501244,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Daniel Vettori,Adam Gilchrist,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kings XI Punjab
+2011,501245,Kolkata Knight Riders v Chennai Super Kings,KKR v CSK,KKR,CSK,Gautam Gambhir,MS Dhoni,"Eden Gardens, Kolkata",Kolkata Knight Riders , Chennai Super Kings
+2011,501246,Mumbai Indians v Delhi Daredevils,MI v DC,MI,DC,Sachin Tendulkar,Virender Sehwag,"Wankhede Stadium, Mumbai",Mumbai Indians , Delhi Darede
+2011,501247,Royal Challengers Bangalore v Kochi Tuskers Kerala,RCB v Kochi,RCB,Kochi,Daniel Vettori,Mahela Jayawardene,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kochi Tuskers Kerala
+2011,501248,Kings XI Punjab v Pune Warriors,KXIP v PWI,KXIP,PWI,Adam Gilchrist,Yuvraj Singh,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Pune Warriors
+2011,501249,Rajasthan Royals v Chennai Super Kings,RR v CSK,RR,CSK,Shane Warne,MS Dhoni,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Chennai Super Kings
+2011,501250,Deccan Chargers v Pune Warriors,DC v PWI,SRH,PWI,Kumar Sangakkara,Yuvraj Singh,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Pune Warriors
+2011,501251,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,Adam Gilchrist,Sachin Tendulkar,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Mumbai Indians
+2011,501252,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Shane Warne,Virat Kohli,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Royal Challengers Bangalore
+2011,501253,Chennai Super Kings v Delhi Daredevils,CSK v DC,CSK,DC,MS Dhoni,James Hopes,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Delhi Darede
+2011,501254,Kochi Tuskers Kerala v Kings XI Punjab,Kochi v KXIP,Kochi,KXIP,Mahela Jayawardene,Adam Gilchrist,"Holkar Cricket Stadium, Indore",Kochi Tuskers Kerala , Kings XI Punjab
+2011,501255,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Virat Kohli,Gautam Gambhir,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kolkata Knight Riders
+2011,501256,Mumbai Indians v Deccan Chargers,MI v DC,MI,SRH,Sachin Tendulkar,Kumar Sangakkara,"Wankhede Stadium, Mumbai",Mumbai Indians , Deccan Chargers
+2011,501257,Kings XI Punjab v Delhi Daredevils,KXIP v DC,KXIP,DC,Adam Gilchrist,James Hopes,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Kings XI Punjab , Delhi Darede
+2011,501258,Kochi Tuskers Kerala v Rajasthan Royals,Kochi v RR,Kochi,RR,Mahela Jayawardene,Shane Warne,"Holkar Cricket Stadium, Indore",Kochi Tuskers Kerala , Rajasthan Royals
+2011,501259,Pune Warriors v Deccan Chargers,PWI v DC,PWI,SRH,Yuvraj Singh,Kumar Sangakkara,"Dr DY Patil Sports Academy, Mumbai",Pune Warriors , Deccan Chargers
+2011,501260,Kings XI Punjab v Royal Challengers Bangalore,KXIP v RCB,KXIP,RCB,Adam Gilchrist,Virat Kohli,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Kings XI Punjab , Royal Challengers Bangalore
+2011,501261,Chennai Super Kings v Kochi Tuskers Kerala,CSK v Kochi,CSK,Kochi,MS Dhoni,Parthiv Patel,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kochi Tuskers Kerala
+2011,501262,Pune Warriors v Kolkata Knight Riders,PWI v KKR,PWI,KKR,Yuvraj Singh,Gautam Gambhir,"Dr DY Patil Sports Academy, Mumbai",Pune Warriors , Kolkata Knight Riders
+2011,501263,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Sachin Tendulkar,Shane Warne,"Wankhede Stadium, Mumbai",Mumbai Indians , Rajasthan Royals
+2011,501264,Kings XI Punjab v Deccan Chargers,KXIP v DC,KXIP,SRH,Adam Gilchrist,Cameron White,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Kings XI Punjab , Deccan Chargers
+2011,501265,Delhi Daredevils v Pune Warriors,DC v PWI,DC,PWI,James Hopes,Yuvraj Singh,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2011,501266,Royal Challengers Bangalore v Chennai Super Kings,RCB v CSK,RCB,CSK,Daniel Vettori,MS Dhoni,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Chennai Super Kings
+2011,501267,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Gautam Gambhir,Sachin Tendulkar,"Eden Gardens, Kolkata",Kolkata Knight Riders , Mumbai Indians
+2011,501268,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Daniel Vettori,"Wankhede Stadium, Mumbai",Chennai Super Kings , Royal Challengers Bangalore
+2011,501269,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Sachin Tendulkar,Gautam Gambhir,"Wankhede Stadium, Mumbai",Mumbai Indians , Kolkata Knight Riders
+2011,501270,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Sachin Tendulkar,Daniel Vettori,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians , Royal Challengers Bangalore
+2011,501271,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Daniel Vettori,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Royal Challengers Bangalore
+2010,419106,Deccan Chargers v Kolkata Knight Riders,DC v KKR,SRH,KKR,Adam Gilchrist,Sourav Ganguly,"Dr DY Patil Sports Academy, Mumbai",Deccan Chargers , Kolkata Knight Riders
+2010,419107,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Sachin Tendulkar,Shane Warne,"Brabourne Stadium, Mumbai",Mumbai Indians , Rajasthan Royals
+2010,419108,Kings XI Punjab v Delhi Daredevils,KXIP v DC,KXIP,DC,Kumar Sangakkara,Gautam Gambhir,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Delhi Darede
+2010,419109,Kolkata Knight Riders v Royal Challengers Bangalore,KKR v RCB,KKR,RCB,Sourav Ganguly,Anil Kumble,"Eden Gardens, Kolkata",Kolkata Knight Riders , Royal Challengers Bangalore
+2010,419110,Chennai Super Kings v Deccan Chargers,CSK v DC,CSK,SRH,MS Dhoni,Adam Gilchrist,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Deccan Chargers
+2010,419111,Rajasthan Royals v Delhi Daredevils,RR v DC,RR,DC,Shane Warne,Gautam Gambhir,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",Rajasthan Royals , Delhi Darede
+2010,419112,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Anil Kumble,Kumar Sangakkara,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kings XI Punjab
+2010,419113,Kolkata Knight Riders v Chennai Super Kings,KKR v CSK,KKR,CSK,Sourav Ganguly,MS Dhoni,"Eden Gardens, Kolkata",Kolkata Knight Riders , Chennai Super Kings
+2010,419114,Delhi Daredevils v Mumbai Indians,DC v MI,DC,MI,Gautam Gambhir,Sachin Tendulkar,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2010,419115,Royal Challengers Bangalore v Rajasthan Royals,RCB v RR,RCB,RR,Anil Kumble,Shane Warne,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Rajasthan Royals
+2010,419116,Delhi Daredevils v Chennai Super Kings,DC v CSK,DC,CSK,Dinesh Karthik,Suresh Raina,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2010,419117,Deccan Chargers v Kings XI Punjab,DC v KXIP,SRH,KXIP,Adam Gilchrist,Kumar Sangakkara,"Barabati Stadium, Cuttack",Deccan Chargers , Kings XI Punjab
+2010,419118,Rajasthan Royals v Kolkata Knight Riders,RR v KKR,RR,KKR,Shane Warne,Sourav Ganguly,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",Rajasthan Royals , Kolkata Knight Riders
+2010,419119,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Sachin Tendulkar,Anil Kumble,"Brabourne Stadium, Mumbai",Mumbai Indians , Royal Challengers Bangalore
+2010,419120,Deccan Chargers v Delhi Daredevils,SRH v DC,SRH,DC,Adam Gilchrist,Dinesh Karthik,"Barabati Stadium, Cuttack",Deccan Chargers , Delhi Darede
+2010,419121,Chennai Super Kings v Kings XI Punjab,CSK v KXIP,CSK,KXIP,Suresh Raina,Kumar Sangakkara,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kings XI Punjab
+2010,419122,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Sachin Tendulkar,Sourav Ganguly,"Brabourne Stadium, Mumbai",Mumbai Indians , Kolkata Knight Riders
+2010,419123,Royal Challengers Bangalore v Chennai Super Kings,RCB v CSK,RCB,CSK,Anil Kumble,Suresh Raina,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Chennai Super Kings
+2010,419124,Kings XI Punjab v Rajasthan Royals,KXIP v RR,KXIP,RR,Kumar Sangakkara,Shane Warne,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Rajasthan Royals
+2010,419128,Royal Challengers Bangalore v Delhi Daredevils,RCB v DC,RCB,DC,Anil Kumble,Dinesh Karthik,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Delhi Darede
+2010,419125,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Sachin Tendulkar,MS Dhoni,"Brabourne Stadium, Mumbai",Mumbai Indians , Chennai Super Kings
+2010,419126,Rajasthan Royals v Deccan Chargers,RR v DC,RR,SRH,Shane Warne,Adam Gilchrist,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",Rajasthan Royals , Deccan Chargers
+2010,419127,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,Kumar Sangakkara,Sourav Ganguly,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Kolkata Knight Riders
+2010,419129,Rajasthan Royals v Chennai Super Kings,RR v CSK,RR,CSK,Shane Warne,MS Dhoni,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",Rajasthan Royals , Chennai Super Kings
+2010,419130,Deccan Chargers v Mumbai Indians,DC v MI,SRH,MI,Adam Gilchrist,Sachin Tendulkar,"Dr DY Patil Sports Academy, Mumbai",Deccan Chargers , Mumbai Indians
+2010,419131,Delhi Daredevils v Kolkata Knight Riders,DC v KKR,DC,KKR,Gautam Gambhir,Sourav Ganguly,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2010,419132,Mumbai Indians v Kings XI Punjab,MI v KXIP,MI,KXIP,Sachin Tendulkar,Mahela Jayawardene,"Brabourne Stadium, Mumbai",Mumbai Indians , Kings XI Punjab
+2010,419133,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Anil Kumble,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Royal Challengers Bangalore
+2010,419134,Delhi Daredevils v Rajasthan Royals,DC v RR,DC,RR,Gautam Gambhir,Shane Warne,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2010,419135,Kolkata Knight Riders v Deccan Chargers,KKR v DC,KKR,SRH,Sourav Ganguly,Adam Gilchrist,"Eden Gardens, Kolkata",Kolkata Knight Riders , Deccan Chargers
+2010,419136,Kings XI Punjab v Royal Challengers Bangalore,KXIP v RCB,KXIP,RCB,Kumar Sangakkara,Anil Kumble,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Royal Challengers Bangalore
+2010,419137,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Shane Warne,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Rajasthan Royals
+2010,419138,Mumbai Indians v Deccan Chargers,MI v DC,MI,SRH,Sachin Tendulkar,Adam Gilchrist,"Brabourne Stadium, Mumbai",Mumbai Indians , Deccan Chargers
+2010,419139,Kolkata Knight Riders v Kings XI Punjab,KKR v KXIP,KKR,KXIP,Sourav Ganguly,Kumar Sangakkara,"Eden Gardens, Kolkata",Kolkata Knight Riders , Kings XI Punjab
+2010,419140,Delhi Daredevils v Royal Challengers Bangalore,DC v RCB,DC,RCB,Gautam Gambhir,Anil Kumble,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2010,419141,Deccan Chargers v Rajasthan Royals,DC v RR,SRH,RR,Adam Gilchrist,Shane Warne,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Deccan Chargers , Rajasthan Royals
+2010,419142,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Sachin Tendulkar,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Mumbai Indians
+2010,419143,Rajasthan Royals v Kings XI Punjab,RR v KXIP,RR,KXIP,Shane Warne,Kumar Sangakkara,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Kings XI Punjab
+2010,419144,Kolkata Knight Riders v Delhi Daredevils,KKR v DC,KKR,DC,Sourav Ganguly,Gautam Gambhir,"Eden Gardens, Kolkata",Kolkata Knight Riders , Delhi Darede
+2010,419145,Royal Challengers Bangalore v Deccan Chargers,RCB v DC,RCB,SRH,Anil Kumble,Adam Gilchrist,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Deccan Chargers
+2010,419146,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,Kumar Sangakkara,Sachin Tendulkar,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Mumbai Indians
+2010,419147,Deccan Chargers v Chennai Super Kings,DC v CSK,SRH,CSK,Adam Gilchrist,MS Dhoni,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Deccan Chargers , Chennai Super Kings
+2010,419148,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Anil Kumble,Sourav Ganguly,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kolkata Knight Riders
+2010,419149,Delhi Daredevils v Kings XI Punjab,DC v KXIP,DC,KXIP,Gautam Gambhir,Kumar Sangakkara,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2010,419150,Rajasthan Royals v Mumbai Indians,RR v MI,RR,MI,Shane Warne,Sachin Tendulkar,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Mumbai Indians
+2010,419151,Deccan Chargers v Royal Challengers Bangalore,DC v RCB,SRH,RCB,Adam Gilchrist,Anil Kumble,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Deccan Chargers , Royal Challengers Bangalore
+2010,419152,Mumbai Indians v Delhi Daredevils,MI v DC,MI,DC,Sachin Tendulkar,Gautam Gambhir,"Brabourne Stadium, Mumbai",Mumbai Indians , Delhi Darede
+2010,419153,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Sourav Ganguly,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kolkata Knight Riders
+2010,419154,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Shane Warne,Anil Kumble,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Royal Challengers Bangalore
+2010,419155,Chennai Super Kings v Delhi Daredevils,CSK v DC,CSK,DC,MS Dhoni,Gautam Gambhir,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Delhi Darede
+2010,419156,Kings XI Punjab v Deccan Chargers,KXIP v DC,KXIP,SRH,Kumar Sangakkara,Adam Gilchrist,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Kings XI Punjab , Deccan Chargers
+2010,419157,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Anil Kumble,Sachin Tendulkar,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Mumbai Indians
+2010,419158,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Sourav Ganguly,Shane Warne,"Eden Gardens, Kolkata",Kolkata Knight Riders , Rajasthan Royals
+2010,419159,Kings XI Punjab v Chennai Super Kings,KXIP v CSK,KXIP,CSK,Kumar Sangakkara,MS Dhoni,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Kings XI Punjab , Chennai Super Kings
+2010,419160,Delhi Daredevils v Deccan Chargers,DC v SRH,DC,SRH,Gautam Gambhir,Adam Gilchrist,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2010,419161,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Sourav Ganguly,Dwayne Bravo,"Eden Gardens, Kolkata",Kolkata Knight Riders , Mumbai Indians
+2010,419162,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Sachin Tendulkar,Anil Kumble,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians , Royal Challengers Bangalore
+2010,419163,Chennai Super Kings v Deccan Chargers,CSK v DC,CSK,SRH,MS Dhoni,Adam Gilchrist,"Dr DY Patil Sports Academy, Mumbai",Chennai Super Kings , Deccan Chargers
+2010,419164,Deccan Chargers v Royal Challengers Bangalore,DC v RCB,SRH,RCB,Adam Gilchrist,Anil Kumble,"Dr DY Patil Sports Academy, Mumbai",Deccan Chargers , Royal Challengers Bangalore
+2010,419165,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Sachin Tendulkar,MS Dhoni,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians , Chennai Super Kings
+2009,392181,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Sachin Tendulkar,"Newlands, Cape Town",Chennai Super Kings , Mumbai Indians
+2009,392182,Royal Challengers Bangalore v Rajasthan Royals,RCB v RR,RCB,RR,Kevin Pietersen,Shane Warne,"Newlands, Cape Town",Royal Challengers Bangalore , Rajasthan Royals
+2009,392183,Delhi Daredevils v Kings XI Punjab,DC v KXIP,DC,KXIP,Virender Sehwag,Yuvraj Singh,"Newlands, Cape Town",Delhi Darede,ils 
+2009,392184,Deccan Chargers v Kolkata Knight Riders,DC v KKR,SRH,KKR,Adam Gilchrist,Brendon McCullum,"Newlands, Cape Town",Deccan Chargers , Kolkata Knight Riders
+2009,392185,Royal Challengers Bangalore v Chennai Super Kings,RCB v CSK,RCB,CSK,Kevin Pietersen,MS Dhoni,"St George's Park, Port Elizabeth",Royal Challengers Bangalore , Chennai Super Kings
+2009,392186,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,Yuvraj Singh,Brendon McCullum,"Kingsmead, Durban",Kings XI Punjab , Kolkata Knight Riders
+2009,392188,Royal Challengers Bangalore v Deccan Chargers,RCB v DC,RCB,SRH,Kevin Pietersen,Adam Gilchrist,"Newlands, Cape Town",Royal Challengers Bangalore , Deccan Chargers
+2009,392189,Chennai Super Kings v Delhi Daredevils,CSK v DC,CSK,DC,MS Dhoni,Virender Sehwag,"Kingsmead, Durban",Chennai Super Kings , Delhi Darede
+2009,392190,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Brendon McCullum,Shane Warne,"Newlands, Cape Town",Kolkata Knight Riders , Rajasthan Royals
+2009,392191,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Kevin Pietersen,Yuvraj Singh,"Kingsmead, Durban",Royal Challengers Bangalore , Kings XI Punjab
+2009,392192,Deccan Chargers v Mumbai Indians,DC v MI,SRH,MI,Adam Gilchrist,Sachin Tendulkar,"Kingsmead, Durban",Deccan Chargers , Mumbai Indians
+2009,392194,Royal Challengers Bangalore v Delhi Daredevils,RCB v DC,RCB,DC,Kevin Pietersen,Virender Sehwag,"St George's Park, Port Elizabeth",Royal Challengers Bangalore , Delhi Darede
+2009,392195,Kings XI Punjab v Rajasthan Royals,KXIP v RR,KXIP,RR,Yuvraj Singh,Shane Warne,"Newlands, Cape Town",Kings XI Punjab , Rajasthan Royals
+2009,392196,Chennai Super Kings v Deccan Chargers,CSK v DC,CSK,SRH,MS Dhoni,Adam Gilchrist,"Kingsmead, Durban",Chennai Super Kings , Deccan Chargers
+2009,392197,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Brendon McCullum,Sachin Tendulkar,"St George's Park, Port Elizabeth",Kolkata Knight Riders , Mumbai Indians
+2009,392198,Delhi Daredevils v Rajasthan Royals,DC v RR,DC,RR,Virender Sehwag,Shane Warne,"SuperSport Park, Centurion",Delhi Darede,ils 
+2009,392199,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Kevin Pietersen,Brendon McCullum,"Kingsmead, Durban",Royal Challengers Bangalore , Kolkata Knight Riders
+2009,392200,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,Yuvraj Singh,Sachin Tendulkar,"Kingsmead, Durban",Kings XI Punjab , Mumbai Indians
+2009,392201,Deccan Chargers v Delhi Daredevils,SRH v DC,SRH,DC,Adam Gilchrist,Virender Sehwag,"SuperSport Park, Centurion",Deccan Chargers , Delhi Darede
+2009,392202,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Shane Warne,"SuperSport Park, Centurion",Chennai Super Kings , Rajasthan Royals
+2009,392203,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Brendon McCullum,Sachin Tendulkar,"Buffalo Park, East London",Kolkata Knight Riders , Mumbai Indians
+2009,392204,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Anil Kumble,Yuvraj Singh,"Kingsmead, Durban",Royal Challengers Bangalore , Kings XI Punjab
+2009,392205,Deccan Chargers v Rajasthan Royals,DC v RR,SRH,RR,Adam Gilchrist,Shane Warne,"St George's Park, Port Elizabeth",Deccan Chargers , Rajasthan Royals
+2009,392206,Chennai Super Kings v Delhi Daredevils,CSK v DC,CSK,DC,MS Dhoni,Gautam Gambhir,"The Wanderers Stadium, Johannesburg",Chennai Super Kings , Delhi Darede
+2009,392207,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,Yuvraj Singh,Brendon McCullum,"St George's Park, Port Elizabeth",Kings XI Punjab , Kolkata Knight Riders
+2009,392208,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Anil Kumble,Sachin Tendulkar,"The Wanderers Stadium, Johannesburg",Royal Challengers Bangalore , Mumbai Indians
+2009,392209,Chennai Super Kings v Deccan Chargers,CSK v DC,CSK,SRH,MS Dhoni,Adam Gilchrist,"Buffalo Park, East London",Chennai Super Kings , Deccan Chargers
+2009,392210,Kings XI Punjab v Rajasthan Royals,KXIP v RR,KXIP,RR,Yuvraj Singh,Shane Warne,"Kingsmead, Durban",Kings XI Punjab , Rajasthan Royals
+2009,392211,Delhi Daredevils v Kolkata Knight Riders,DC v KKR,DC,KKR,Gautam Gambhir,Brendon McCullum,"Kingsmead, Durban",Delhi Darede,ils 
+2009,392212,Deccan Chargers v Mumbai Indians,DC v MI,SRH,MI,Adam Gilchrist,Sachin Tendulkar,"SuperSport Park, Centurion",Deccan Chargers , Mumbai Indians
+2009,392213,Royal Challengers Bangalore v Rajasthan Royals,RCB v RR,RCB,RR,Anil Kumble,Shane Warne,"SuperSport Park, Centurion",Royal Challengers Bangalore , Rajasthan Royals
+2009,392214,Chennai Super Kings v Kings XI Punjab,CSK v KXIP,CSK,KXIP,MS Dhoni,Yuvraj Singh,"SuperSport Park, Centurion",Chennai Super Kings , Kings XI Punjab
+2009,392215,Delhi Daredevils v Mumbai Indians,DC v MI,DC,MI,Gautam Gambhir,Sachin Tendulkar,"Buffalo Park, East London",Delhi Darede,ils 
+2009,392216,Deccan Chargers v Kings XI Punjab,DC v KXIP,SRH,KXIP,Adam Gilchrist,Yuvraj Singh,"Diamond Oval, Kimberley",Deccan Chargers , Kings XI Punjab
+2009,392217,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Shane Warne,"Diamond Oval, Kimberley",Chennai Super Kings , Rajasthan Royals
+2009,392218,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Anil Kumble,Sachin Tendulkar,"St George's Park, Port Elizabeth",Royal Challengers Bangalore , Mumbai Indians
+2009,392219,Delhi Daredevils v Kolkata Knight Riders,DC v KKR,DC,KKR,Gautam Gambhir,Brendon McCullum,"The Wanderers Stadium, Johannesburg",Delhi Darede,ils 
+2009,392220,Deccan Chargers v Rajasthan Royals,DC v RR,SRH,RR,Adam Gilchrist,Shane Warne,"Diamond Oval, Kimberley",Deccan Chargers , Rajasthan Royals
+2009,392221,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Anil Kumble,Brendon McCullum,"SuperSport Park, Centurion",Royal Challengers Bangalore , Kolkata Knight Riders
+2009,392222,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,Yuvraj Singh,Sachin Tendulkar,"SuperSport Park, Centurion",Kings XI Punjab , Mumbai Indians
+2009,392223,Deccan Chargers v Delhi Daredevils,SRH v DC,SRH,DC,Adam Gilchrist,Virender Sehwag,"Kingsmead, Durban",Deccan Chargers , Delhi Darede
+2009,392224,Royal Challengers Bangalore v Chennai Super Kings,RCB v CSK,RCB,CSK,Anil Kumble,MS Dhoni,"Kingsmead, Durban",Royal Challengers Bangalore , Chennai Super Kings
+2009,392225,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Sachin Tendulkar,Shane Warne,"Kingsmead, Durban",Mumbai Indians , Rajasthan Royals
+2009,392226,Delhi Daredevils v Kings XI Punjab,DC v KXIP,DC,KXIP,Virender Sehwag,Yuvraj Singh,"Mangaung Oval, Bloemfontein",Delhi Darede,ils 
+2009,392227,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Sachin Tendulkar,"St George's Park, Port Elizabeth",Chennai Super Kings , Mumbai Indians
+2009,392228,Deccan Chargers v Kolkata Knight Riders,DC v KKR,SRH,KKR,Adam Gilchrist,Brendon McCullum,"The Wanderers Stadium, Johannesburg",Deccan Chargers , Kolkata Knight Riders
+2009,392229,Deccan Chargers v Kings XI Punjab,DC v KXIP,SRH,KXIP,Adam Gilchrist,Yuvraj Singh,"The Wanderers Stadium, Johannesburg",Deccan Chargers , Kings XI Punjab
+2009,392230,Delhi Daredevils v Rajasthan Royals,DC v RR,DC,RR,Virender Sehwag,Shane Warne,"Mangaung Oval, Bloemfontein",Delhi Darede,ils 
+2009,392231,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Brendon McCullum,"SuperSport Park, Centurion",Chennai Super Kings , Kolkata Knight Riders
+2009,392232,Royal Challengers Bangalore v Delhi Daredevils,RCB v DC,RCB,DC,Anil Kumble,Virender Sehwag,"The Wanderers Stadium, Johannesburg",Royal Challengers Bangalore , Delhi Darede
+2009,392233,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Brendon McCullum,Shane Warne,"Kingsmead, Durban",Kolkata Knight Riders , Rajasthan Royals
+2009,392234,Chennai Super Kings v Kings XI Punjab,CSK v KXIP,CSK,KXIP,MS Dhoni,Yuvraj Singh,"Kingsmead, Durban",Chennai Super Kings , Kings XI Punjab
+2009,392235,Delhi Daredevils v Mumbai Indians,DC v MI,DC,MI,Virender Sehwag,Sachin Tendulkar,"SuperSport Park, Centurion",Delhi Darede,ils 
+2009,392236,Royal Challengers Bangalore v Deccan Chargers,RCB v DC,RCB,SRH,Anil Kumble,Adam Gilchrist,"SuperSport Park, Centurion",Royal Challengers Bangalore , Deccan Chargers
+2009,392237,Deccan Chargers v Delhi Daredevils,SRH v DC,SRH,DC,Adam Gilchrist,Virender Sehwag,"SuperSport Park, Centurion",Deccan Chargers , Delhi Darede
+2009,392238,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Anil Kumble,"The Wanderers Stadium, Johannesburg",Chennai Super Kings , Royal Challengers Bangalore
+2009,392239,Deccan Chargers v Royal Challengers Bangalore,DC v RCB,SRH,RCB,Adam Gilchrist,Anil Kumble,"The Wanderers Stadium, Johannesburg",Deccan Chargers , Royal Challengers Bangalore
+2008,335982,Royal Challengers Bangalore v Kolkata Knight Riders,RCB v KKR,RCB,KKR,Rahul Dravid,Sourav Ganguly,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kolkata Knight Riders
+2008,335983,Kings XI Punjab v Chennai Super Kings,KXIP v CSK,KXIP,CSK,Yuvraj Singh,MS Dhoni,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Chennai Super Kings
+2008,335984,Delhi Daredevils v Rajasthan Royals,DC v RR,DC,RR,Virender Sehwag,Shane Warne,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2008,335986,Kolkata Knight Riders v Deccan Chargers,KKR v DC,KKR,SRH,Sourav Ganguly,VVS Laxman,"Eden Gardens, Kolkata",Kolkata Knight Riders , Deccan Chargers
+2008,335985,Mumbai Indians v Royal Challengers Bangalore,MI v RCB,MI,RCB,Harbhajan Singh,Rahul Dravid,"Wankhede Stadium, Mumbai",Mumbai Indians , Royal Challengers Bangalore
+2008,335987,Rajasthan Royals v Kings XI Punjab,RR v KXIP,RR,KXIP,Shane Warne,Yuvraj Singh,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Kings XI Punjab
+2008,335988,Deccan Chargers v Delhi Daredevils,SRH v DC,SRH,DC,VVS Laxman,Virender Sehwag,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Delhi Darede
+2008,335989,Chennai Super Kings v Mumbai Indians,CSK v MI,CSK,MI,MS Dhoni,Harbhajan Singh,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Mumbai Indians
+2008,335990,Deccan Chargers v Rajasthan Royals,DC v RR,SRH,RR,VVS Laxman,Shane Warne,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Rajasthan Royals
+2008,335991,Kings XI Punjab v Mumbai Indians,KXIP v MI,KXIP,MI,Yuvraj Singh,Harbhajan Singh,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Mumbai Indians
+2008,335993,Chennai Super Kings v Kolkata Knight Riders,CSK v KKR,CSK,KKR,MS Dhoni,Sourav Ganguly,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kolkata Knight Riders
+2008,335992,Royal Challengers Bangalore v Rajasthan Royals,RCB v RR,RCB,RR,Rahul Dravid,Shane Warne,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Rajasthan Royals
+2008,335995,Kings XI Punjab v Delhi Daredevils,KXIP v DC,KXIP,DC,Yuvraj Singh,Virender Sehwag,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Delhi Darede
+2008,335994,Mumbai Indians v Deccan Chargers,MI v DC,MI,SRH,Shaun Pollock,VVS Laxman,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians , Deccan Chargers
+2008,335996,Royal Challengers Bangalore v Chennai Super Kings,RCB v CSK,RCB,CSK,Rahul Dravid,MS Dhoni,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Chennai Super Kings
+2008,335997,Kolkata Knight Riders v Mumbai Indians,KKR v MI,KKR,MI,Sourav Ganguly,Shaun Pollock,"Eden Gardens, Kolkata",Kolkata Knight Riders , Mumbai Indians
+2008,335998,Delhi Daredevils v Royal Challengers Bangalore,DC v RCB,DC,RCB,Virender Sehwag,Rahul Dravid,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2008,336000,Rajasthan Royals v Kolkata Knight Riders,RR v KKR,RR,KKR,Shane Warne,Sourav Ganguly,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Kolkata Knight Riders
+2008,335999,Deccan Chargers v Kings XI Punjab,DC v KXIP,SRH,KXIP,VVS Laxman,Yuvraj Singh,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Kings XI Punjab
+2008,336001,Chennai Super Kings v Delhi Daredevils,CSK v DC,CSK,DC,MS Dhoni,Virender Sehwag,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Delhi Darede
+2008,336034,Royal Challengers Bangalore v Deccan Chargers,RCB v DC,RCB,SRH,Rahul Dravid,VVS Laxman,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Deccan Chargers
+2008,336003,Kings XI Punjab v Kolkata Knight Riders,KXIP v KKR,KXIP,KKR,Yuvraj Singh,Sourav Ganguly,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Kolkata Knight Riders
+2008,336004,Mumbai Indians v Delhi Daredevils,MI v DC,MI,DC,Shaun Pollock,Virender Sehwag,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians , Delhi Darede
+2008,336005,Rajasthan Royals v Chennai Super Kings,RR v CSK,RR,CSK,Shane Warne,MS Dhoni,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Chennai Super Kings
+2008,336006,Royal Challengers Bangalore v Kings XI Punjab,RCB v KXIP,RCB,KXIP,Rahul Dravid,Yuvraj Singh,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Kings XI Punjab
+2008,336007,Chennai Super Kings v Deccan Chargers,CSK v DC,CSK,SRH,MS Dhoni,Adam Gilchrist,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Deccan Chargers
+2008,336008,Mumbai Indians v Rajasthan Royals,MI v RR,MI,RR,Shaun Pollock,Shane Warne,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians , Rajasthan Royals
+2008,336009,Delhi Daredevils v Chennai Super Kings,DC v CSK,DC,CSK,Virender Sehwag,MS Dhoni,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2008,336010,Kolkata Knight Riders v Royal Challengers Bangalore,KKR v RCB,KKR,RCB,Sourav Ganguly,Rahul Dravid,"Eden Gardens, Kolkata",Kolkata Knight Riders , Royal Challengers Bangalore
+2008,336011,Rajasthan Royals v Deccan Chargers,RR v DC,RR,SRH,Shane Warne,Adam Gilchrist,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Deccan Chargers
+2008,336013,Chennai Super Kings v Kings XI Punjab,CSK v KXIP,CSK,KXIP,MS Dhoni,Yuvraj Singh,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Kings XI Punjab
+2008,336014,Deccan Chargers v Kolkata Knight Riders,DC v KKR,SRH,KKR,Adam Gilchrist,Sourav Ganguly,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Kolkata Knight Riders
+2008,336015,Rajasthan Royals v Delhi Daredevils,RR v DC,RR,DC,Shane Warne,Virender Sehwag,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Delhi Darede
+2008,336016,Kings XI Punjab v Royal Challengers Bangalore,KXIP v RCB,KXIP,RCB,Yuvraj Singh,Rahul Dravid,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Royal Challengers Bangalore
+2008,336017,Kolkata Knight Riders v Delhi Daredevils,KKR v DC,KKR,DC,Sourav Ganguly,Virender Sehwag,"Eden Gardens, Kolkata",Kolkata Knight Riders , Delhi Darede
+2008,336018,Mumbai Indians v Chennai Super Kings,MI v CSK,MI,CSK,Sachin Tendulkar,MS Dhoni,"Wankhede Stadium, Mumbai",Mumbai Indians , Chennai Super Kings
+2008,336020,Delhi Daredevils v Deccan Chargers,DC v SRH,DC,SRH,Virender Sehwag,Adam Gilchrist,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2008,336021,Mumbai Indians v Kolkata Knight Riders,MI v KKR,MI,KKR,Sachin Tendulkar,Sourav Ganguly,"Wankhede Stadium, Mumbai",Mumbai Indians , Kolkata Knight Riders
+2008,336023,Rajasthan Royals v Royal Challengers Bangalore,RR v RCB,RR,RCB,Shane Warne,Rahul Dravid,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Royal Challengers Bangalore
+2008,336022,Delhi Daredevils v Kings XI Punjab,DC v KXIP,DC,KXIP,Virender Sehwag,Yuvraj Singh,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2008,336025,Kolkata Knight Riders v Chennai Super Kings,KKR v CSK,KKR,CSK,Sourav Ganguly,MS Dhoni,"Eden Gardens, Kolkata",Kolkata Knight Riders , Chennai Super Kings
+2008,336024,Deccan Chargers v Mumbai Indians,DC v MI,SRH,MI,Adam Gilchrist,Sachin Tendulkar,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Mumbai Indians
+2008,336026,Royal Challengers Bangalore v Delhi Daredevils,RCB v DC,RCB,DC,Rahul Dravid,Virender Sehwag,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Delhi Darede
+2008,336027,Kolkata Knight Riders v Rajasthan Royals,KKR v RR,KKR,RR,Sourav Ganguly,Shane Warne,"Eden Gardens, Kolkata",Kolkata Knight Riders , Rajasthan Royals
+2008,336028,Mumbai Indians v Kings XI Punjab,MI v KXIP,MI,KXIP,Sachin Tendulkar,Yuvraj Singh,"Wankhede Stadium, Mumbai",Mumbai Indians , Kings XI Punjab
+2008,336029,Chennai Super Kings v Royal Challengers Bangalore,CSK v RCB,CSK,RCB,MS Dhoni,Rahul Dravid,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Royal Challengers Bangalore
+2008,336031,Kings XI Punjab v Deccan Chargers,KXIP v DC,KXIP,SRH,Yuvraj Singh,Adam Gilchrist,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Deccan Chargers
+2008,336033,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Shane Warne,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings , Rajasthan Royals
+2008,336032,Delhi Daredevils v Mumbai Indians,DC v MI,DC,MI,Virender Sehwag,Sachin Tendulkar,"Arun Jaitley Stadium, Delhi",Delhi Darede,ils 
+2008,336002,Deccan Chargers v Royal Challengers Bangalore,DC v RCB,SRH,RCB,Adam Gilchrist,Rahul Dravid,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Royal Challengers Bangalore
+2008,336035,Kolkata Knight Riders v Kings XI Punjab,KKR v KXIP,KKR,KXIP,Sourav Ganguly,Yuvraj Singh,"Eden Gardens, Kolkata",Kolkata Knight Riders , Kings XI Punjab
+2008,336036,Rajasthan Royals v Mumbai Indians,RR v MI,RR,MI,Shane Warne,Sachin Tendulkar,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals , Mumbai Indians
+2008,336037,Deccan Chargers v Chennai Super Kings,DC v CSK,SRH,CSK,Adam Gilchrist,MS Dhoni,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Deccan Chargers , Chennai Super Kings
+2008,336012,Royal Challengers Bangalore v Mumbai Indians,RCB v MI,RCB,MI,Rahul Dravid,Sachin Tendulkar,"M.Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore , Mumbai Indians
+2008,336019,Kings XI Punjab v Rajasthan Royals,KXIP v RR,KXIP,RR,Yuvraj Singh,Shane Watson,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kings XI Punjab , Rajasthan Royals
+2008,336038,Delhi Daredevils v Rajasthan Royals,DC v RR,DC,RR,Virender Sehwag,Shane Warne,"Wankhede Stadium, Mumbai",Delhi Darede,ils 
+2008,336039,Chennai Super Kings v Kings XI Punjab,CSK v KXIP,CSK,KXIP,MS Dhoni,Yuvraj Singh,"Wankhede Stadium, Mumbai",Chennai Super Kings , Kings XI Punjab
+2008,336040,Chennai Super Kings v Rajasthan Royals,CSK v RR,CSK,RR,MS Dhoni,Shane Warne,"Dr DY Patil Sports Academy, Mumbai",Chennai Super Kings , Rajasthan Royals
